@@ -1,0 +1,24 @@
+@media screen and (max-width: 800px) {
+    main {
+        padding: 0.5em;
+    }
+
+    nav img {
+        display: none;
+    }
+
+    .card p {
+        font-size: 1.5em;
+    }
+
+    .genres img, .categories img {
+        max-height: 75%;
+        max-width: 75%;
+    }
+
+    .imgDescription {
+        display: flex;
+        justify-content: center;
+    }
+
+}

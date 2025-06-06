@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "name":"Environnement/Espaces naturels",
+        "img":"environnement.png"
+
+    },
+    {
+        "id": 1,
+        "name":"Bâtiment",
+        "img":"batiments.png"
+    }
+]

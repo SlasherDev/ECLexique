@@ -1,0 +1,14 @@
+[
+    {
+        "id":0,
+        "name":"Masculin",
+        "letter":"M",
+        "img":"masculin.png"
+    },
+    {
+        "id":1,
+        "name":"Féminin",
+        "letter":"F",
+        "img":"feminin.png"
+    }
+]

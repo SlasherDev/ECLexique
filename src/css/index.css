@@ -1,0 +1,136 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.ficheOutilHeader {
+  display: flex;
+  margin: 1em 0;
+}
+
+nav img {
+  margin: 0% 2em;
+  position: absolute;
+  top: 2%;
+  left: 0;
+}
+
+main {
+  padding: 0 2em;
+  flex: 1;
+}
+
+.cardList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card img {
+  max-height: 200px;
+  max-width: 250px;
+  object-fit: contain;
+  display: block;
+  margin: auto;
+}
+
+.search {
+  margin: 0 2%;
+  padding: 5px 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+
+}
+
+.search input {
+  width: 100%;
+  padding-left: 1%;
+  border: #004A48 solid 3px;
+  border-radius: 15px;
+  font-size: 1.25em;
+}
+
+.imgDescription {
+  display: inline-block;
+  position: relative;
+
+  &:before {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-weight: bold;
+    padding: 5px;
+    content: attr(data-description);
+    opacity: 0;
+    transition: all .5s;
+    font-size: 1.25em;
+    text-align: center;
+  }
+
+  &:hover {
+    &:before {
+      opacity: 1;
+      background-color: #004A48;
+      color: white;
+      border-radius: 5px;
+    }
+  }
+}
+
+.ficheOutil {
+  img {
+    max-height: 600px;
+    max-width: 600px;
+  }
+
+}
+
+.outilDetails {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+
+  .sides {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .audioButton{
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+
+  }
+
+  .prononce {
+    display: flex;
+    width: 100%;
+    margin: 1% 0;
+    align-items: center;
+    justify-content: space-around;
+  
+  }
+
+  .prononceList {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    gap: .5em;
+
+  }
+
+  .prononceElement {
+    border: #78C173 solid 3px;
+    border-radius: 50px;
+    font-weight: bold;
+    padding: .5em;
+    font-size: 1.25em;
+
+  }
+}
