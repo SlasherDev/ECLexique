@@ -95,7 +95,7 @@ function Home() {
                     </>
                 )}
             </main>
-            <Button variant="contained" onClick={() => window.scrollTo(0, 0)} style={styles.upButton}>
+            <Button variant="contained" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} style={styles.upButton}>
                 <IoIosArrowUp />
             </Button>
         </>
