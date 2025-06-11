@@ -7,29 +7,30 @@ import { IoIosArrowUp } from 'react-icons/io';
 
 function Home() {
 
+    
+    
     const [search, setSearch] = useState('')
     const [isMobile, setIsMobile] = useState(false);
-
+    
     function handleChange(e) {
         setSearch(e.target.value);
     }
-
+    
     const normalize = (str) =>
         str.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
-
-    const filteredData = data.filter(item =>
+    
+    const filteredData = data.sort((a, b) => a.name.localeCompare(b.name)).filter(item =>
         normalize(item.name).includes(normalize(search))
     );
-
+    
     const [selectedTool, setSelectedTool] = useState(null);
-
+    
     useEffect(() => {
         const checkMobile = () => setIsMobile(window.innerWidth <= 670);
         checkMobile();
         window.addEventListener('resize', checkMobile);
         return () => window.removeEventListener('resize', checkMobile);
     }, []);
-
 
     const styles = {
         card: {
@@ -57,6 +58,7 @@ function Home() {
             bottom: 10,
             left: '100vw',
             margin : '0 10px',
+            display: selectedTool ? 'none' : 'flex',
 
         }
     }
@@ -64,14 +66,16 @@ function Home() {
     return (
         <>
             <nav>
+                <a href="/">
                 <img loading="lazy" src='./src/assets/images/logo/logo_ec.jpg' alt="logo Études et Chantiers" width={200} />
                 <h1>Etudes et Chantiers</h1>
                 <h2>Lexique des outils techniques</h2>
+                </a>
             </nav>
 
             <main>
                 {selectedTool ? (
-                    <FicheOutil tool={selectedTool} goBack={() => setSelectedTool(null)} />
+                    <FicheOutil  tool={selectedTool} filteredData={filteredData} setSelectedTool={setSelectedTool} goHome={() => setSelectedTool(null)} />
                 ) : (
                     <>
                         <div className='search'>
@@ -79,8 +83,7 @@ function Home() {
                             <input type="text" name="searchBar" id="searchBar" placeholder="Rechercher un outil" onChange={handleChange} value={search} />
                         </div>
                         <div className='cardList'>
-                            {filteredData.sort((a, b) => a.name.localeCompare(b.name))
-                                         .map((tool) => {
+                            {filteredData.map((tool) => {
                                 return (
                                     <Button style={styles.card} variant="contained" className='card' key={tool.id} onClick={() => setSelectedTool(tool)}>
                                         <p>{tool.name}</p>

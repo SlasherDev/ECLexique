@@ -6,7 +6,7 @@
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
         "audio": ["arrosoir.WAV"],
-        "prononce": ["A-rros-oir"]
+        "prononce": ["A-rro-soir"]
     },
     {
         "id": 1,
@@ -19,12 +19,12 @@
     },
     {
         "id": 2,
-        "name":"Automobile",
+        "name":"Automobile / Voiture",
         "img":"automobile.jpg",
         "genre":"F",
         "categorie": [],
-        "audio": ["automobile.WAV"],
-        "prononce": ["Au-to-mo-bi-le"]
+        "audio": ["automobile.WAV", "voiture.mp3"],
+        "prononce": ["Au-to-mo-bile", "voi-ture"]
     },
     {
         "id": 3,
@@ -60,7 +60,7 @@
         "genre": "M",
         "categorie": ["Bâtiment"],
         "audio": ["balai_a_feuilles.WAV"],
-        "prononce": ["Ba-lai à feu-illes"]
+        "prononce": ["Ba-lai à feuilles"]
     },
     {
         "id": 7,
@@ -87,16 +87,16 @@
         "genre":"F",
         "categorie": ["Bâtiment"],
         "audio": ["balayette.WAV"],
-        "prononce": ["Ba-lay-ette"]
+        "prononce": ["Ba-lay-(y)ette"]
     },
     {
         "id": 10,
-        "name":"Barre à mines",
+        "name":"Barre à mine",
         "img":"barre_a_mine.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
         "audio": ["barre_a_mine.WAV"],
-        "prononce": ["Bar-re à mi-nes"]
+        "prononce": ["Barre à mine"]
     },
     {
         "id": 11,
@@ -105,7 +105,7 @@
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
         "audio": ["beche.WAV"],
-        "prononce": ["Bê-che"]
+        "prononce": ["Bêche"]
     },
     {
         "id": 12,
@@ -168,7 +168,7 @@
         "genre":"F",
         "categorie": ["Bâtiment"],
         "audio": ["bobine_de_fil.WAV"],
-        "prononce": ["Bo-bi-ne de fil"]
+        "prononce": ["Bo-bine de fil"]
     },
     {
         "id": 19,
@@ -195,7 +195,7 @@
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
         "audio": ["bottes.WAV"],
-        "prononce": ["Bo-ttes"]
+        "prononce": ["Bottes"]
     },
     {
         "id": 22,
@@ -346,10 +346,10 @@
         "id": 38,
         "name":"Canot-Barque",
         "img":"canot_barque.jpg",
-        "genre":"M",
+        "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
         "audio": ["canot_barque.WAV"],
-        "prononce": ["Ca-no-t-Bar-que"]
+        "prononce": ["Bar-que"]
     },
     {
         "id": 39,
@@ -394,7 +394,7 @@
         "genre":"M",
         "categorie": ["Bâtiment"],
         "audio": ["cavaliers.WAV"],
-        "prononce": ["Ca-va-liers"]
+        "prononce": ["Ca-va-li-(i)ers"]
 
     },
     {
@@ -404,7 +404,7 @@
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
         "audio": ["chaine_de_tronconneuse.WAV"],
-        "prononce": ["Chaî-ne de tron-çon-neu-se"]
+        "prononce": ["Chaî-ne de tron-ço-nneu-se"]
     },
     {
         "id": 45,
@@ -440,7 +440,7 @@
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
         "audio": ["chevalet.WAV"],
-        "prononce": ["Che-val-et"]
+        "prononce": ["Che-va-let"]
     },
     {
         "id": 49,
@@ -449,7 +449,7 @@
         "genre":"F",
         "categorie": ["Bâtiment"],
         "audio": ["chevilles_a_frapper.WAV"],
-        "prononce": ["Che-villes à fra-pper"]
+        "prononce": ["Che-vi-lles à fra-pper"]
     },
     {
         "id": 50,
@@ -458,7 +458,7 @@
         "genre":"F",
         "categorie": ["Bâtiment"],
         "audio": ["chevilles_a_placoplatre.WAV"],
-        "prononce": ["Che-villes à placo-plâtre"]
+        "prononce": ["Che-vi-lles à pla-co-plâ-tre"]
     },
     {
         "id": 51,
@@ -467,7 +467,7 @@
         "genre":"F",
         "categorie": ["Bâtiment"],
         "audio": ["chevilles.WAV"],
-        "prononce": ["Che-villes"]
+        "prononce": ["Che-vi-lles"]
     },
     {
         "id": 52,

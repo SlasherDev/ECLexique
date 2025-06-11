@@ -2,11 +2,6 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
 
-.ficheOutilHeader {
-  display: flex;
-  margin: 1em 0;
-}
-
 nav img {
   margin: 0% 2em;
   position: absolute;
@@ -134,3 +129,14 @@ main {
 
   }
 }
+
+.navButtons{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1em 0;
+}
+
+  a {
+    text-decoration: none;
+  }
