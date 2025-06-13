@@ -76,7 +76,7 @@ export default function FicheOutil({ tool, goHome}) {
                                     ))}
                                 </div>
                                 <div className='decoupeList'>
-                                    {tool.prononce.map((p, index) => (
+                                    {tool.decoupe.map((p, index) => (
                                         <div className='decoupeElement' key={index}>{p}</div>
                                     ))}
                                 </div>
