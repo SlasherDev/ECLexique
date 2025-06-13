@@ -37,8 +37,8 @@ function Home() {
             display: 'flex',
             flexDirection: 'column',
             backgroundColor: '#004A48',
-            width: isMobile ? '100vw' : '300px',
-            height: isMobile ? '100vw' : '300px',
+            width: isMobile ? '100vw' : '400px',
+            height: isMobile ? '100vw' : '400px',
             margin: '2%',
             color: 'white',
             fontWeight: 'bold',
@@ -58,7 +58,6 @@ function Home() {
             bottom: 10,
             left: '100vw',
             margin : '0 10px',
-            display: selectedTool ? 'none' : 'flex',
 
         }
     }
@@ -75,7 +74,7 @@ function Home() {
 
             <main>
                 {selectedTool ? (
-                    <FicheOutil  tool={selectedTool} filteredData={filteredData} setSelectedTool={setSelectedTool} goHome={() => setSelectedTool(null)} />
+                    <FicheOutil  tool={selectedTool} goHome={() => setSelectedTool(null)} />
                 ) : (
                     <>
                         <div className='search'>

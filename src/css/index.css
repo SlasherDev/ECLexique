@@ -111,7 +111,7 @@ main {
   
   }
 
-  .prononceList {
+  .decoupeList {
     display: flex;
     flex: 1;
     flex-direction: column;
@@ -120,7 +120,7 @@ main {
 
   }
 
-  .prononceElement {
+  .decoupeElement {
     border: #78C173 solid 3px;
     border-radius: 50px;
     font-weight: bold;

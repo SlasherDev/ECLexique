@@ -3,41 +3,26 @@ import genres from '../assets/json/genres.json';
 import categories from '../assets/json/categories.json';
 import SoundPlayIcon from '../components/SoundPlay';
 import { Button, } from '@mui/material';
-import { IoIosHome, IoIosArrowBack, IoIosArrowForward, IoIosInformationCircle } from "react-icons/io";
+import { IoIosHome} from "react-icons/io";
 
-export default function FicheOutil({ tool, goHome, filteredData, setSelectedTool }) {
+export default function FicheOutil({ tool, goHome}) {
     const genreTrouve = genres.find((g) => g.letter === tool.genre);
     const soundRef = useRef(null);
 
-    const prononce = [{ prononce: tool.prononce, audio: tool.audio }];
-    const currentIndex = filteredData.findIndex(t => t.id === tool.id)
+    const prononce = [{ decoupe: tool.decoupe, audio: tool.audio }];
+
 
 
     const styles = {
         goHomeButton: {
-            zIndex: 1,
             minWidth: 0,
-            width: '2em',
-            height: '2em',
+            width: '1em',
+            height: '1em',
             alignItems: 'center',
-            fontSize: '2em',
+            fontSize: '5em',
             backgroundColor: "#004A48",
             borderRadius: "50%",
-            position: "sticky",
-            bottom: 10,
-            left: '100vw',
             margin: '0 10px',
-        },
-        navButton: {
-            minWidth: 0,
-            color: 'black',
-            border: '1px solid #c0c0c0',
-            width: '2em',
-            height: '2em',
-            alignItems: 'center',
-            fontSize: '2em',
-            backgroundColor: "white",
-            borderRadius: "50%",
         },
     };
     function stopAudio() {
@@ -51,42 +36,14 @@ export default function FicheOutil({ tool, goHome, filteredData, setSelectedTool
         goHome();
     };
 
-    const handlePrevTool = () => {
-        stopAudio();
-        setSelectedTool(filteredData[currentIndex - 1]);
-    }
-
-    const handleNextTool = () => {
-        stopAudio();
-        setSelectedTool(filteredData[currentIndex + 1]);
-    }
-
     return (
         <div className="ficheOutil">
             <div className="navButtons">
-                {currentIndex > 0 ? (
-                    <Button
-                        style={styles.navButton}
-                        variant="contained"
-                        onClick={handlePrevTool}
-                    >
-                        <IoIosArrowBack />
-                    </Button>
-                ) : (
-                    <div />
-                )}
+                <Button variant="contained" style={styles.goHomeButton} onClick={handlegoHome}>
+                    <IoIosHome />
+                </Button>
                 <h3>{tool.name}</h3>
-                {currentIndex < filteredData.length - 1 ? (
-                    <Button
-                        style={styles.navButton}
-                        variant="contained"
-                        onClick={handleNextTool}
-                    >
-                        <IoIosArrowForward />
-                    </Button>
-                ) : (
-                    <div />
-                )}
+
             </div>
             <div className='outilDetails'>
                 <div className='sides'>
@@ -94,16 +51,16 @@ export default function FicheOutil({ tool, goHome, filteredData, setSelectedTool
                         <img loading="lazy" src={`./src/assets/images/outils/${tool.img}`} alt={tool.name} />
                     </div>
                     {
-                        tool.prononce.length === tool.audio.length ? (
+                        tool.decoupe.length === tool.audio.length ? (
                             prononce.map((p, i) => (
-                                p.prononce.map((prononceElement, j) => {
+                                p.decoupe.map((prononceElement, j) => {
                                     return (
                                         <div className='prononce' key={`${i}-${j}`}>
                                             <div className='audioButton'>
                                                 <SoundPlayIcon key={j} ref={soundRef} src={`./src/assets/audios/${p.audio[j]}`} />
                                             </div>
-                                            <div className='prononceList'>
-                                                <div className='prononceElement' key={`${i}-${j}`}>
+                                            <div className='decoupeList'>
+                                                <div className='decoupeElement' key={`${i}-${j}`}>
                                                     {prononceElement}
                                                 </div>
                                             </div>
@@ -118,9 +75,9 @@ export default function FicheOutil({ tool, goHome, filteredData, setSelectedTool
                                         <SoundPlayIcon key={index} ref={soundRef} src={`./src/assets/audios/${audio}`} />
                                     ))}
                                 </div>
-                                <div className='prononceList'>
+                                <div className='decoupeList'>
                                     {tool.prononce.map((p, index) => (
-                                        <div className='prononceElement' key={index}>{p}</div>
+                                        <div className='decoupeElement' key={index}>{p}</div>
                                     ))}
                                 </div>
                             </div>
@@ -144,16 +101,8 @@ export default function FicheOutil({ tool, goHome, filteredData, setSelectedTool
                             </div>
                         ))}
                     </div>
-                    <a href={`https://fr.wikipedia.org/wiki/${tool.name}`} target="_blank" rel="noopener noreferrer">
-                        <Button variant='contained'>
-                            <IoIosInformationCircle />
-                        </Button>
-                    </a>
                 </div>
             </div>
-            <Button variant="contained" style={styles.goHomeButton} onClick={handlegoHome}>
-                <IoIosHome />
-            </Button>
         </div>
     );
 }

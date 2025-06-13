@@ -5,8 +5,8 @@
         "img":"arrosoir.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["arrosoir.WAV"],
-        "prononce": ["A-rro-soir"]
+        "audio": ["arrosoir.mp3"],
+        "decoupe": ["A-rro-soir"]
     },
     {
         "id": 1,
@@ -14,8 +14,8 @@
         "img":"aspirateur.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["aspirateur.WAV"],
-        "prononce": ["As-pi-ra-teur"]
+        "audio": ["aspirateur.mp3"],
+        "decoupe": ["As-pi-ra-teur"]
     },
     {
         "id": 2,
@@ -23,8 +23,8 @@
         "img":"automobile.jpg",
         "genre":"F",
         "categorie": [],
-        "audio": ["automobile.WAV", "voiture.mp3"],
-        "prononce": ["Au-to-mo-bile", "voi-ture"]
+        "audio": ["automobile.mp3", "voiture.mp3"],
+        "decoupe": ["Au-to-mo-bile", "voi-ture"]
     },
     {
         "id": 3,
@@ -32,8 +32,8 @@
         "img": "bac_a_gacher.jpg",
         "genre": "M",
         "categorie": ["Bâtiment"],
-        "audio": ["bac_a_gacher.WAV"],
-        "prononce": ["Bac à gâ-cher"]
+        "audio": ["bac_a_gacher.mp3"],
+        "decoupe": ["Bac à gâ-cher"]
     },
     {
         "id": 4,
@@ -41,8 +41,8 @@
         "img": "bac_de_retention.jpg",
         "genre": "M",
         "categorie": ["Bâtiment"],
-        "audio": ["bac_de_retention.WAV"],
-        "prononce": ["Bac de ré-ten-tion"]
+        "audio": ["bac_de_retention.mp3"],
+        "decoupe": ["Bac de ré-ten-tion"]
     },
     {
         "id": 5,
@@ -50,8 +50,8 @@
         "img": "baches.jpg",
         "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["baches.WAV"],
-        "prononce": ["Bâ-ches"]
+        "audio": ["baches.mp3"],
+        "decoupe": ["Bâ-ches"]
     },
     {
         "id": 6,
@@ -59,8 +59,8 @@
         "img": "balai_a_feuilles.jpg",
         "genre": "M",
         "categorie": ["Bâtiment"],
-        "audio": ["balai_a_feuilles.WAV"],
-        "prononce": ["Ba-lai à feuilles"]
+        "audio": ["balai_a_feuilles.mp3"],
+        "decoupe": ["Ba-lai à feuilles"]
     },
     {
         "id": 7,
@@ -68,8 +68,8 @@
         "img": "balai_a_poussiere.jpg",
         "genre": "M",
         "categorie": ["Bâtiment"],
-        "audio": ["balai_a_poussiere.WAV"],
-        "prononce": ["Ba-lai à pou-ssière"]
+        "audio": ["balai_a_poussiere.mp3"],
+        "decoupe": ["Ba-lai à pou-ssière"]
     },
     {
         "id": 8,
@@ -77,8 +77,8 @@
         "img":"balai_de_chantier.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["balai_de_chantier.WAV"],
-        "prononce": ["Ba-lai de chan-tier"]
+        "audio": ["balai_de_chantier.mp3"],
+        "decoupe": ["Ba-lai de chan-tier"]
     },
     {
         "id": 9,
@@ -86,8 +86,8 @@
         "img":"balayette.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["balayette.WAV"],
-        "prononce": ["Ba-lay-(y)ette"]
+        "audio": ["balayette.mp3"],
+        "decoupe": ["Ba-lay-(y)ette"]
     },
     {
         "id": 10,
@@ -95,8 +95,8 @@
         "img":"barre_a_mine.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["barre_a_mine.WAV"],
-        "prononce": ["Barre à mine"]
+        "audio": ["barre_a_mine.mp3"],
+        "decoupe": ["Barre à mine"]
     },
     {
         "id": 11,
@@ -104,8 +104,8 @@
         "img":"beche.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["beche.WAV"],
-        "prononce": ["Bêche"]
+        "audio": ["beche.mp3"],
+        "decoupe": ["Bêche"]
     },
     {
         "id": 12,
@@ -113,8 +113,8 @@
         "img":"betonniere.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["betonniere.WAV"],
-        "prononce": ["Bé-to-nnière"]
+        "audio": ["betonniere.mp3"],
+        "decoupe": ["Bé-to-nnière"]
     },
     {
         "id": 13,
@@ -122,8 +122,8 @@
         "img":"bidon_200L.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["bidon_200L.WAV"],
-        "prononce": ["Bi-don 200L", "Bi-don deux-cents li-tres"]
+        "audio": ["bidon_200L.mp3"],
+        "decoupe": ["Bi-don 200L", "Bi-don deux-cents li-tres"]
     },
     {
         "id": 14,
@@ -131,8 +131,8 @@
         "img":"bidon.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["bidon.WAV"],
-        "prononce": ["Bi-don"]
+        "audio": ["bidon.mp3"],
+        "decoupe": ["Bi-don"]
     },
     {
         "id": 15,
@@ -140,8 +140,8 @@
         "img":"big_bag.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["big_bag.WAV"],
-        "prononce": ["Big-bag"]
+        "audio": ["big_bag.mp3"],
+        "decoupe": ["Big-bag"]
     },
     {
         "id": 16,
@@ -149,8 +149,8 @@
         "img":"binettes.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["binettes.WAV"],
-        "prononce": ["Bi-nettes"]
+        "audio": ["binettes.mp3"],
+        "decoupe": ["Bi-nettes"]
     },
     {
         "id": 17,
@@ -158,8 +158,8 @@
         "img":"bobine_de_fil_de_fauche.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["bobine_de_fil_de_fauche.WAV"],
-        "prononce": ["Bo-bine de fil de fau-che"]
+        "audio": ["bobine_de_fil_de_fauche.mp3"],
+        "decoupe": ["Bo-bine de fil de fau-che"]
     },
     {
         "id": 18,
@@ -167,8 +167,8 @@
         "img":"bobine_de_fil.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["bobine_de_fil.WAV"],
-        "prononce": ["Bo-bine de fil"]
+        "audio": ["bobine_de_fil.mp3"],
+        "decoupe": ["Bo-bine de fil"]
     },
     {
         "id": 19,
@@ -176,8 +176,8 @@
         "img":"boite_a_embouts.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["boite_a_embouts.WAV"],
-        "prononce": ["Boi-te à em-bouts"]
+        "audio": ["boite_a_embouts.mp3"],
+        "decoupe": ["Boi-te à em-bouts"]
     },
     {
         "id": 20,
@@ -185,8 +185,8 @@
         "img":"bombe_de_marquage.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["bombe_de_marquage.WAV"],
-        "prononce": ["Bom-be de mar-quage"]
+        "audio": ["bombe_de_marquage.mp3"],
+        "decoupe": ["Bom-be de mar-quage"]
     },
     {
         "id": 21,
@@ -194,8 +194,8 @@
         "img":"bottes.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["bottes.WAV"],
-        "prononce": ["Bottes"]
+        "audio": ["bottes.mp3"],
+        "decoupe": ["Bottes"]
     },
     {
         "id": 22,
@@ -203,8 +203,8 @@
         "img":"bouchon_de_reservoir.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["bouchon_de_reservoir.WAV"],
-        "prononce": ["Bou-chon de ré-ser-voir"]
+        "audio": ["bouchon_de_reservoir.mp3"],
+        "decoupe": ["Bou-chon de ré-ser-voir"]
 
     },
     {
@@ -213,8 +213,8 @@
         "img":"bougie.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["bougie.WAV"],
-        "prononce": ["Bou-gie"]
+        "audio": ["bougie.mp3"],
+        "decoupe": ["Bou-gie"]
     },
     {
         "id": 24,
@@ -222,8 +222,8 @@
         "img":"boule_d_attelage.jpg",
         "genre":"F",
         "categorie": [],
-        "audio": ["boule_d_attelage.WAV"],
-        "prononce": ["Boule d'a-tte-lage"]
+        "audio": ["boule_d_attelage.mp3"],
+        "decoupe": ["Boule d'a-tte-lage"]
     },
     {
         "id": 25,
@@ -231,8 +231,8 @@
         "img":"boulons.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["boulons.WAV"],
-        "prononce": ["Bou-lons"]
+        "audio": ["boulons.mp3"],
+        "decoupe": ["Bou-lons"]
     },
     {
         "id": 26,
@@ -240,8 +240,8 @@
         "img":"bouteille_de_gaz.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["bouteille_de_gaz.WAV"],
-        "prononce": ["Bou-teille de gaz"]
+        "audio": ["bouteille_de_gaz.mp3"],
+        "decoupe": ["Bou-teille de gaz"]
     },
     {
         "id": 27,
@@ -249,8 +249,8 @@
         "img": "briques_de_terre.jpg",
         "genre": "F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["briques_de_terre.WAV"],
-        "prononce": ["Bri-ques de ter-re"]
+        "audio": ["briques_de_terre.mp3"],
+        "decoupe": ["Bri-ques de ter-re"]
     },
     {
         "id": 28,
@@ -258,8 +258,8 @@
         "img":"briques_rouges.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["briques_rouges.WAV"],
-        "prononce": ["Bri-ques rou-ges"]
+        "audio": ["briques_rouges.mp3"],
+        "decoupe": ["Bri-ques rou-ges"]
     },
     {
         "id": 29,
@@ -267,8 +267,8 @@
         "img":"brosse_nylon.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["brosse_nylon.WAV"],
-        "prononce": ["Bros-se ny-lon"]
+        "audio": ["brosse_nylon.mp3"],
+        "decoupe": ["Bros-se ny-lon"]
     },
     {
         "id": 30,
@@ -276,8 +276,8 @@
         "img":"brosses_metalliques.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["brosses_metalliques.WAV"],
-        "prononce": ["Bro-sses mé-ta-lliques"]
+        "audio": ["brosses_metalliques.mp3"],
+        "decoupe": ["Bro-sses mé-ta-lliques"]
     },
     {
         "id": 31,
@@ -285,8 +285,8 @@
         "img":"brouette.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["brouette.WAV"],
-        "prononce": ["Brou-ette"]
+        "audio": ["brouette.mp3"],
+        "decoupe": ["Brou-ette"]
     },
     {
         "id": 32,
@@ -294,8 +294,8 @@
         "img":"broyeur_de_branche.jpg",
         "genre":"M",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["broyeur_de_branche.WAV"],
-        "prononce": ["Bro-yeur de bran-che"]
+        "audio": ["broyeur_de_branche.mp3"],
+        "decoupe": ["Bro-yeur de branche"]
     },
     {
         "id": 33,
@@ -303,8 +303,8 @@
         "img":"bruleur_thermique.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["bruleur_thermique.WAV"],
-        "prononce": ["Bru-leur ther-mi-que"]
+        "audio": ["bruleur_thermique.mp3"],
+        "decoupe": ["Bru-leur ther-mi-que"]
     },
     {
         "id": 34,
@@ -312,8 +312,8 @@
         "img":"burineur.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["burineur.WAV"],
-        "prononce": ["Bu-ri-neur"]
+        "audio": ["burineur.mp3"],
+        "decoupe": ["Bu-ri-neur"]
     },
     {
         "id": 35,
@@ -321,8 +321,8 @@
         "img": "burins.jpg",
         "genre": "M",
         "categorie": ["Bâtiment"],
-        "audio": ["burins.WAV"],
-        "prononce": ["Bu-rins"]
+        "audio": ["burins.mp3"],
+        "decoupe": ["Bu-rins"]
     },
     {
         "id": 36,
@@ -330,8 +330,8 @@
         "img":"cable_electrique.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["cable_electrique.WAV"],
-        "prononce": ["Câ-ble é-lec-tri-que"]
+        "audio": ["cable_electrique.mp3"],
+        "decoupe": ["Câ-ble é-lec-tri-que"]
     },
     {
         "id": 37,
@@ -339,17 +339,17 @@
         "img":"cables_de_batterie.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["cables_de_batterie.WAV"],
-        "prononce": ["Ca-bles de ba-tte-rie"]
+        "audio": ["cables_de_batterie.mp3"],
+        "decoupe": ["Ca-bles de ba-tte-rie"]
     },
     {
         "id": 38,
-        "name":"Canot-Barque",
-        "img":"canot_barque.jpg",
+        "name":"Barque",
+        "img":"barque.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["canot_barque.WAV"],
-        "prononce": ["Bar-que"]
+        "audio": ["barque.mp3"],
+        "decoupe": ["Bar-que"]
     },
     {
         "id": 39,
@@ -357,8 +357,8 @@
         "img":"capots_deflecteurs.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["capots_deflecteurs.WAV"],
-        "prononce": ["Ca-pots dé-flec-teurs"]
+        "audio": ["capots_deflecteurs.mp3"],
+        "decoupe": ["Ca-pots dé-flec-teurs"]
     },
     {
         "id": 40,
@@ -366,8 +366,8 @@
         "img":"casque_anti_bruit.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["casque_anti_bruit.WAV"],
-        "prononce": ["Cas-que an-ti-bruit"]
+        "audio": ["casque_anti_bruit.mp3"],
+        "decoupe": ["Cas-que an-ti-bruit"]
     },
     {
         "id": 41,
@@ -375,8 +375,8 @@
         "img":"casque_de_chantier.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels" , "Bâtiment"],
-        "audio": ["casque_de_chantier.WAV"],
-        "prononce": ["Cas-que de chan-tier"]
+        "audio": ["casque_de_chantier.mp3"],
+        "decoupe": ["Cas-que de chan-tier"]
     },
     {
         "id": 42,
@@ -384,8 +384,8 @@
         "img":"casque_de_tronconnage.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["casque_de_tronconnage.WAV"],
-        "prononce": ["Cas-que de tron-çon-na-ge"]
+        "audio": ["casque_de_tronconnage.mp3"],
+        "decoupe": ["Cas-que de tron-çon-na-ge"]
     },
     {
         "id": 43,
@@ -393,8 +393,8 @@
         "img":"cavaliers.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["cavaliers.WAV"],
-        "prononce": ["Ca-va-li-(i)ers"]
+        "audio": ["cavaliers.mp3"],
+        "decoupe": ["Ca-va-li-(i)ers"]
 
     },
     {
@@ -403,8 +403,8 @@
         "img":"chaine_de_tronconneuse.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["chaine_de_tronconneuse.WAV"],
-        "prononce": ["Chaî-ne de tron-ço-nneu-se"]
+        "audio": ["chaine_de_tronconneuse.mp3"],
+        "decoupe": ["Chaî-ne de tron-ço-nneu-se"]
     },
     {
         "id": 45,
@@ -412,8 +412,8 @@
         "img":"chaine_rubalise.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["chaine_rubalise.WAV"],
-        "prononce": ["Chaî-ne ru-ba-li-se"]
+        "audio": ["chaine_rubalise.mp3"],
+        "decoupe": ["Chaî-ne ru-ba-li-se"]
     },
     {
         "id": 46,
@@ -421,8 +421,8 @@
         "img":"chaine.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["chaine.WAV"],
-        "prononce": ["Chaî-ne"]
+        "audio": ["chaine.mp3"],
+        "decoupe": ["Chaî-ne"]
     },
     {
         "id": 47,
@@ -430,8 +430,8 @@
         "img":"chasse.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["chasse.WAV"],
-        "prononce": ["Cha-sse"]
+        "audio": ["chasse.mp3"],
+        "decoupe": ["Cha-sse"]
     },
     {
         "id": 48,
@@ -439,8 +439,8 @@
         "img":"chevalet.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["chevalet.WAV"],
-        "prononce": ["Che-va-let"]
+        "audio": ["chevalet.mp3"],
+        "decoupe": ["Che-va-let"]
     },
     {
         "id": 49,
@@ -448,17 +448,17 @@
         "img":"chevilles_a_frapper.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["chevilles_a_frapper.WAV"],
-        "prononce": ["Che-vi-lles à fra-pper"]
+        "audio": ["chevilles_a_frapper.mp3"],
+        "decoupe": ["Che-vi-lles à fra-pper"]
     },
     {
         "id": 50,
-        "name":"Chevilles à placoplâtre",
+        "name":"Chevilles pour plaque de platre / Chevilles à placoplâtre",
         "img":"chevilles_a_placoplatre.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["chevilles_a_placoplatre.WAV"],
-        "prononce": ["Che-vi-lles à pla-co-plâ-tre"]
+        "audio": ["chevilles_pour_plaque_de_platre.mp3","chevilles_a_placoplatre.mp3"],
+        "decoupe": ["Che-vi-lles pour pla-que de pla-tre.mp3","Che-vi-lles à pla-co-plâ-tre"]
     },
     {
         "id": 51,
@@ -466,8 +466,8 @@
         "img":"chevilles.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["chevilles.WAV"],
-        "prononce": ["Che-vi-lles"]
+        "audio": ["chevilles.mp3"],
+        "decoupe": ["Che-vi-lles"]
     },
     {
         "id": 52,
@@ -475,8 +475,8 @@
         "img":"chevillette.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["chevillette.WAV"],
-        "prononce": ["Che-vil-lette"]
+        "audio": ["chevillette.mp3"],
+        "decoupe": ["Che-vi-llette"]
     },
     {
         "id": 53,
@@ -484,8 +484,8 @@
         "img":"chevron.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["chevron.WAV"],
-        "prononce": ["Che-vron"]
+        "audio": ["chevron.mp3"],
+        "decoupe": ["Che-vron"]
     },
     {
         "id": 54,
@@ -493,8 +493,8 @@
         "img":"chiffon.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["chiffon.WAV"],
-        "prononce": ["Chi-ffon"]
+        "audio": ["chiffon.mp3"],
+        "decoupe": ["Chi-ffon"]
     },
     {
         "id": 55,
@@ -502,8 +502,8 @@
         "img":"cisaille.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["cisaille.WAV"],
-        "prononce": ["Ci-sille"]
+        "audio": ["cisaille.mp3"],
+        "decoupe": ["Ci-sille"]
     },
     { 
         "id": 56,
@@ -511,8 +511,8 @@
         "img":"ciseau_a_pierre.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["ciseau_a_pierre.WAV"],
-        "prononce": ["Ci-seau à pie-rre"]
+        "audio": ["ciseau_a_pierre.mp3"],
+        "decoupe": ["Ci-seau à pierre"]
     },
     {
         "id": 57,
@@ -520,8 +520,8 @@
         "img":"ciseau_a_bois.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["ciseau_a_bois.WAV"],
-        "prononce": ["Ci-seau à bois"]
+        "audio": ["ciseau_a_bois.mp3"],
+        "decoupe": ["Ci-seau à bois"]
     },
     {
         "id": 58,
@@ -529,8 +529,8 @@
         "img":"clef_a_cliquet.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["clef_a_cliquet.m4a"],
-        "prononce": ["Cle-f à cli-quet"]
+        "audio": ["clef_a_cliquet.mp3"],
+        "decoupe": ["Cle-f à cli-quet"]
     },
     {
         "id": 59,
@@ -538,8 +538,8 @@
         "img":"clef_a_molette.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["clef_a_molette.m4a"],
-        "prononce": ["Cle-f à mo-lette"]
+        "audio": ["clef_a_molette.mp3"],
+        "decoupe": ["Cle-f à mo-lette"]
     },
     {
         "id": 60,
@@ -547,8 +547,8 @@
         "img":"clef_a_oeil.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["clef_a_oeil.m4a"],
-        "prononce": ["Cle-f à oeil"]
+        "audio": ["clef_a_oeil.mp3"],
+        "decoupe": ["Cle-f à oeil"]
     },
     {
         "id": 61,
@@ -556,8 +556,8 @@
         "img":"clef_a_pipe.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["clef_a_pipe.m4a"],
-        "prononce": ["Cle-f à pi-pe"]
+        "audio": ["clef_a_pipe.mp3"],
+        "decoupe": ["Cle-f à pi-pe"]
     },
     {
         "id": 62,
@@ -565,8 +565,8 @@
         "img":"clef_de_lapidaire.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["clef_de_lapidaire.m4a"],
-        "prononce": ["Cle-f de la-pi-dair-e"]
+        "audio": ["clef_de_lapidaire.mp3"],
+        "decoupe": ["Cle-f de la-pi-daire"]
     },
     {
         "id": 63,
@@ -574,8 +574,8 @@
         "img":"clef_male.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["clef_male.m4a"],
-        "prononce": ["Cle-f mâl-e"]
+        "audio": ["clef_male.mp3"],
+        "decoupe": ["Cle-f mâl-e"]
     },
     {
         "id": 64,
@@ -583,8 +583,8 @@
         "img":"clef_plate.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["clef_plate.m4a"],
-        "prononce": ["Cle-f pla-te"]
+        "audio": ["clef_plate.mp3"],
+        "decoupe": ["Cle-f pla-te"]
     },
     {
         "id": 65,
@@ -592,8 +592,8 @@
         "img":"clefs_a_bougies.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["clefs_a_bougies.m4a"],
-        "prononce": ["Cle-fs à bou-gies"]
+        "audio": ["clefs_a_bougies.mp3"],
+        "decoupe": ["Cle-fs à bou-gies"]
     },
     {
         "id": 66,
@@ -601,8 +601,8 @@
         "img":"clefs_a_griffes.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["clefs_a_griffes.m4a"],
-        "prononce": ["Cle-fs à grif-fes"]
+        "audio": ["clefs_a_griffes.mp3"],
+        "decoupe": ["Cle-fs à gri-ffes"]
     },
     {
         "id": 67,
@@ -610,8 +610,8 @@
         "img":"cloche.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["cloche.m4a"],
-        "prononce": ["Clo-che"]
+        "audio": ["cloche.mp3"],
+        "decoupe": ["Clo-che"]
     },
     {
         "id": 68,
@@ -619,8 +619,8 @@
         "img":"coins_a_bois.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["coins_a_bois.m4a"],
-        "prononce": ["Coin-s à bois"]
+        "audio": ["coins_a_bois.mp3"],
+        "decoupe": ["Coin-s à bois"]
     },
     {
         "id": 69,
@@ -628,8 +628,8 @@
         "img": "compresseur.jpg",
         "genre": "M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["compresseur.m4a"],
-        "prononce": ["Com-pre-sseur"]
+        "audio": ["compresseur.mp3"],
+        "decoupe": ["Com-pre-sseur"]
     },
     {
         "id": 70,
@@ -637,8 +637,8 @@
         "img":"cones_de_signalisation.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["cones_de_signalisation.m4a"],
-        "prononce": ["Cô-nes de si-gna-li-sa-tion"]
+        "audio": ["cones_de_signalisation.mp3"],
+        "decoupe": ["Cô-nes de si-gna-li-sa-tion"]
     },
     {
         "id": 71,
@@ -646,8 +646,8 @@
         "img":"corde.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["corde.m4a"],
-        "prononce": ["Cor-de"]
+        "audio": ["corde.mp3"],
+        "decoupe": ["Cor-de"]
     },
     {
         "id": 72,
@@ -655,8 +655,8 @@
         "img":"cordeau_traceur.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["cordeau_traceur.m4a"],
-        "prononce": ["Cor-deau tra-ceur"]
+        "audio": ["cordeau_traceur.mp3"],
+        "decoupe": ["Cor-deau tra-ceur"]
     },
     {
         "id": 73,
@@ -664,8 +664,8 @@
         "img":"cordeau.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["cordeau.m4a"],
-        "prononce": ["Cor-deau"]
+        "audio": ["cordeau.mp3"],
+        "decoupe": ["Cor-deau"]
     },
     {
         "id": 74,
@@ -673,8 +673,8 @@
         "img":"coupe_branches.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["coupe_branches.m4a"],
-        "prononce": ["Cou-pe-bran-ches"]
+        "audio": ["coupe_branches.mp3"],
+        "decoupe": ["Cou-pe-bran-ches"]
     },
     {
         "id": 75,
@@ -682,8 +682,8 @@
         "img":"couteau_a_enduire.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["couteau_a_enduire.m4a"],
-        "prononce": ["Cou-teau à en-dui-dre"]
+        "audio": ["couteau_a_enduire.mp3"],
+        "decoupe": ["Cou-teau à en-dui-re"]
     },
     {
         "id": 76,
@@ -691,8 +691,8 @@
         "img":"couteau_a_herbe.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["couteau_a_herbe.m4a"],
-        "prononce": ["Cou-teau à her-be"]
+        "audio": ["couteau_a_herbe.mp3"],
+        "decoupe": ["Cou-teau à her-be"]
     },
     {
         "id": 77,
@@ -700,8 +700,8 @@
         "img":"couteau_a_ronce.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["couteau_a_ronce.m4a"],
-        "prononce": ["Cou-teau à ron-ce"]
+        "audio": ["couteau_a_ronce.mp3"],
+        "decoupe": ["Cou-teau à ron-ce"]
     },
     {
         "id": 78,
@@ -709,8 +709,8 @@
         "img":"crayon_de_charpentier.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["crayon_de_charpentier.m4a"],
-        "prononce": ["Cray-on de char-pen-tier"]
+        "audio": ["crayon_de_charpentier.mp3"],
+        "decoupe": ["Cra(i)-yon de char-pen-tier"]
     },
     {
         "id": 79,
@@ -718,8 +718,8 @@
         "img":"crayon_de_macon.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["crayon_de_macon.m4a"],
-        "prononce": ["Cray-on de ma-çon"]
+        "audio": ["crayon_de_macon.mp3"],
+        "decoupe": ["Cra(i)-yon de ma-çon"]
     },
     {
         "id":80,
@@ -727,8 +727,8 @@
         "img":"cremaillere.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["cremaillere.m4a"],
-        "prononce": ["Cré-mai-llère"]
+        "audio": ["cremaillere.mp3"],
+        "decoupe": ["Cré-ma-illè-re"]
     },
     {
         "id": 81,
@@ -736,8 +736,8 @@
         "img":"croc-griffe.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["croc.m4a", "griffe.m4a"],
-        "prononce": ["Croc", "Gri-ffe"]
+        "audio": ["croc.mp3", "griffe.mp3"],
+        "decoupe": ["Croc", "Gri-ffe"]
     },
     {
         "id": 82,
@@ -745,8 +745,8 @@
         "img":"crochet.jpg",
         "genre":"M",
         "categorie": [],
-        "audio": ["crochet.m4a"],
-        "prononce": ["Cro-chet"]
+        "audio": ["crochet.mp3"],
+        "decoupe": ["Cro-chet"]
     },
     {
         "id": 83,
@@ -754,8 +754,8 @@
         "img":"croissant.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["croissant.m4a"],
-        "prononce": ["Croi-ssant"]
+        "audio": ["croissant.mp3"],
+        "decoupe": ["Croi-ssant"]
     },
     {
         "id": 84,
@@ -763,8 +763,8 @@
         "img":"cuissarde.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["cuissarde.m4a"],
-        "prononce": ["Cui-ssar-de"]
+        "audio": ["cuissarde.mp3"],
+        "decoupe": ["Cui-ssarde"]
     },
     {
         "id": 85,
@@ -772,8 +772,8 @@
         "img":"cutter.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["cutter.m4a"],
-        "prononce": ["Cu-tter"]
+        "audio": ["cutter.mp3"],
+        "decoupe": ["Cu-tter"]
     },
     {
         "id": 86,
@@ -781,8 +781,8 @@
         "img":"dame.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["dame.m4a"],
-        "prononce": ["Da-me"]
+        "audio": ["dame.mp3"],
+        "decoupe": ["Da-me"]
     },
     {
         "id": 87,
@@ -790,8 +790,8 @@
         "img":"debroussailleuse.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["debroussailleuse.m4a"],
-        "prononce": ["Dé-brou-ssa-illeuse"]
+        "audio": ["debroussailleuse.mp3"],
+        "decoupe": ["Dé-brou-ssa-illeuse"]
     },
     {
         "id": 88,
@@ -799,8 +799,8 @@
         "img":"degrippant.jpg",
         "genre":"M",
         "categorie": ["Bâtiment","Environnement/Espaces naturels"],
-        "audio": ["degrippant.m4a"],
-        "prononce": ["Dé-gri-ppant"]
+        "audio": ["degrippant.mp3"],
+        "decoupe": ["Dé-gri-ppant"]
     },
     {
         "id": 89,
@@ -808,8 +808,8 @@
         "img":"disque_diamant.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["disque_diamant.m4a"],
-        "prononce": ["Dis-que di-a-mant"]
+        "audio": ["disque_diamant.mp3"],
+        "decoupe": ["Dis-que di-a-mant"]
     },
     {
         "id": 90,
@@ -817,8 +817,8 @@
         "img":"disques.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["disques.m4a"],
-        "prononce": ["Dis-ques"]
+        "audio": ["disques.mp3"],
+        "decoupe": ["Dis-ques"]
     },
     {
         "id": 91,
@@ -826,8 +826,8 @@
         "img":"disqueuse_thermique.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["disqueuse_thermique.m4a"],
-        "prononce": ["Dis-queuse ther-mi-que"]
+        "audio": ["disqueuse_thermique.mp3"],
+        "decoupe": ["Dis-queuse ther-mi-que"]
     },
     {
         "id": 92,
@@ -835,8 +835,8 @@
         "img":"douilles.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["douilles.m4a"],
-        "prononce": ["Dou-illes"]
+        "audio": ["douilles.mp3"],
+        "decoupe": ["Dou-illes"]
     },
     {
         "id": 93,
@@ -844,17 +844,17 @@
         "img":"echafaudage.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["echafaudage.m4a"],
-        "prononce": ["E-cha-fau-dage"]
+        "audio": ["echafaudage.mp3"],
+        "decoupe": ["E-cha-fau-dage"]
     },
     {
-        "id": 954,
+        "id": 94,
         "name":"Echelle 3 Branches",
         "img":"echelle_3_branches.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["echelle_3_branches.m4a"],
-        "prononce": ["E-che-lle 3 bran-ches"]
+        "audio": ["echelle_3_branches.mp3"],
+        "decoupe": ["E-che-lle 3 bran-ches"]
     },
     {
         "id": 95,
@@ -862,17 +862,17 @@
         "img":"echenilloir.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["echenilloir.m4a"],
-        "prononce": ["E-che-ni-lloir"]
+        "audio": ["echenilloir.mp3"],
+        "decoupe": ["E-che-ni-lloir"]
     },
     {
         "id": 96,
-        "name":"Ecrous / Boulons",
-        "img":"ecrous-boulons.jpg",
+        "name":"Ecrous",
+        "img":"ecrous.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["ecrous.m4a", "boulons.m4a"],
-        "prononce": ["E-crous", "Bou-lons"]
+        "audio": ["ecrous.mp3"],
+        "decoupe": ["E-crous"]
     },
     {
         "id": 97,
@@ -880,8 +880,8 @@
         "img":"ecrous_frein.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["ecrous_frein.m4a"],
-        "prononce": ["E-crous frein"]
+        "audio": ["ecrous_frein.mp3"],
+        "decoupe": ["E-crous frein"]
     },
     {
         "id": 98,
@@ -889,8 +889,8 @@
         "img":"enrouleur_electrique.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["enrouleur_electrique.m4a"],
-        "prononce": ["En-rou-leur é-lec-tri-que"]
+        "audio": ["enrouleur_electrique.mp3"],
+        "decoupe": ["En-rou-leur é-lec-trique"]
     },
     {
         "id": 99,
@@ -898,8 +898,8 @@
         "img":"entonnoir.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["entonnoir.m4a"],
-        "prononce": ["En-to-nnoir"]
+        "audio": ["entonnoir.mp3"],
+        "decoupe": ["En-to-nnoir"]
     },
     {
         "id": 100,
@@ -907,8 +907,8 @@
         "img":"epi_debroussailleuse.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["epi_debroussailleuse.m4a"],
-        "prononce": ["E-P-I Dé-brou-ssa-illeuse"]
+        "audio": ["epi_debroussailleuse.mp3"],
+        "decoupe": ["E-P-I Dé-brou-ssail-illeuse"]
     },
     {
         "id": 101,
@@ -916,8 +916,8 @@
         "img":"epi_tronconneuse.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["epi_tronconneuse.m4a"],
-        "prononce": ["E-P-I Tron-ço-nneuse"]
+        "audio": ["epi_tronconneuse.mp3"],
+        "decoupe": ["E-P-I Tron-ço-nneuse"]
     },
     {
         "id": 102,
@@ -925,8 +925,8 @@
         "img":"eponge.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["eponge.m4a"],
-        "prononce": ["E-pon-ge"]
+        "audio": ["eponge.mp3"],
+        "decoupe": ["E-pon-ge"]
     },
     {
         "id": 103,
@@ -934,8 +934,8 @@
         "img":"equerre_de_menuisier.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["equerre_de_menuisier.m4a"],
-        "prononce": ["E-quer-re de me-nui-sier"]
+        "audio": ["equerre_de_menuisier.mp3"],
+        "decoupe": ["E-querre de me-nui-sier"]
     },
     {
         "id": 104,
@@ -943,8 +943,8 @@
         "img":"equerres_de_macon.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["equerres_de_macon.m4a"],
-        "prononce": ["E-quer-res de ma-çon"]
+        "audio": ["equerres_de_macon.mp3"],
+        "decoupe": ["E-querres de ma-çon"]
     },
     {
         "id": 105,
@@ -952,8 +952,8 @@
         "img":"equerres.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["equerres.m4a"],
-        "prononce": ["E-quer-res"]
+        "audio": ["equerres.mp3"],
+        "decoupe": ["E-querres"]
     },
     {
         "id": 106,
@@ -961,8 +961,8 @@
         "img":"escabeau.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["escabeau.m4a"],
-        "prononce": ["Es-ca-beau"]
+        "audio": ["escabeau.mp3"],
+        "decoupe": ["Es-ca-beau"]
     },
     {
         "id":107,
@@ -970,8 +970,8 @@
         "img":"etabli.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["etabli.m4a"],
-        "prononce": ["E-ta-bli"]
+        "audio": ["etabli.mp3"],
+        "decoupe": ["E-ta-bli"]
     },
     {
         "id": 108,
@@ -979,8 +979,8 @@
         "img":"etais.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["etais.m4a"],
-        "prononce": ["E-tais"]
+        "audio": ["etais.mp3"],
+        "decoupe": ["E-tais"]
     },
     {
         "id": 109,
@@ -988,8 +988,8 @@
         "img":"etau_forestier.jpg", 
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["etau_forestier.m4a"],
-        "prononce": ["E-tau fo-res-tier"]
+        "audio": ["etau_forestier.mp3"],
+        "decoupe": ["E-tau fo-res-tier"]
     },
     {
         "id": 110,
@@ -997,8 +997,8 @@
         "img":"etau.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["etau.m4a"],
-        "prononce": ["E-tau"]
+        "audio": ["etau.mp3"],
+        "decoupe": ["E-tau"]
     },
     {
         "id": 111,
@@ -1006,8 +1006,8 @@
         "img":"extincteur.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["extincteur.m4a"],
-        "prononce": ["Ex-tin-cteur"]
+        "audio": ["extincteur.mp3"],
+        "decoupe": ["Ex-tinc-teur"]
     },
     {
         "id": 112,
@@ -1015,8 +1015,8 @@
         "img":"fagoteuse.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["fagoteuse.m4a"],
-        "prononce": ["Fa-go-teuse"]
+        "audio": ["fagoteuse.mp3"],
+        "decoupe": ["Fa-go-teuse"]
     },
     {
         "id": 113,
@@ -1024,8 +1024,8 @@
         "img":"faucille.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["faucille.m4a"],
-        "prononce": ["Fau-ci-lle"]
+        "audio": ["faucille.mp3"],
+        "decoupe": ["Fau-ci-lle"]
     },
     {
         "id": 114,
@@ -1033,8 +1033,8 @@
         "img":"fausse_equerre.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["fausse_equerre.m4a"],
-        "prononce": ["Fau-sse é-que-rre"]
+        "audio": ["fausse_equerre.mp3"],
+        "decoupe": ["Fausse é-querre"]
     },
     {
         "id": 115,
@@ -1042,8 +1042,8 @@
         "img":"faux.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["faux.m4a"],
-        "prononce": ["Faux"]
+        "audio": ["faux.mp3"],
+        "decoupe": ["Faux"]
     },
     {
         "id": 116,
@@ -1051,8 +1051,8 @@
         "img":"fer_a_beton.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["fer_a_beton.m4a"],
-        "prononce": ["Fer à bé-ton"]
+        "audio": ["fer_a_beton.mp3"],
+        "decoupe": ["Fer à bé-ton"]
     },
     {
         "id": 117,
@@ -1060,8 +1060,8 @@
         "img":"fer_a_joints.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["fer_a_joints.m4a"],
-        "prononce": ["Fer à jo-ints"]
+        "audio": ["fer_a_joints.mp3"],
+        "decoupe": ["Fer à jo-ints"]
     },
     {
         "id": 118,
@@ -1069,8 +1069,8 @@
         "img":"feuillard.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["feuillard.m4a"],
-        "prononce": ["Feui-llard"]
+        "audio": ["feuillard.mp3"],
+        "decoupe": ["Feuil-illard"]
     },
     {
         "id": 119,
@@ -1078,8 +1078,8 @@
         "img":"fil_a_plomb.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["fil_a_plomb.m4a"],
-        "prononce": ["Fil à plomb"]
+        "audio": ["fil_a_plomb.mp3"],
+        "decoupe": ["Fil à plomb"]
     },
     {
         "id": 120,
@@ -1087,8 +1087,8 @@
         "img":"fil_barbele.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["fil_barbele.m4a"],
-        "prononce": ["Fil bar-be-lé"]
+        "audio": ["fil_barbele.mp3"],
+        "decoupe": ["Fil bar-be-lé"]
     },
     {
         "id": 121,
@@ -1096,8 +1096,8 @@
         "img":"fil_lisse.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["fil_lisse.m4a"],
-        "prononce": ["Fil li-sse"]
+        "audio": ["fil_lisse.mp3"],
+        "decoupe": ["Fil lisse"]
     },
     {
         "id": 122,
@@ -1105,8 +1105,8 @@
         "img":"filet_de_balisage.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["filet_de_balisage.m4a"],
-        "prononce": ["Fi-let de ba-li-sa-ge"]
+        "audio": ["filet_de_balisage.mp3"],
+        "decoupe": ["Fi-let de ba-li-sage"]
     },
     {
         "id": 123,
@@ -1114,8 +1114,8 @@
         "img":"filtre_a_air.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["filtre_a_air.m4a"],
-        "prononce": ["Fil-tre à air"]
+        "audio": ["filtre_a_air.mp3"],
+        "decoupe": ["Filtre à air"]
     },
     {
         "id": 124,
@@ -1123,8 +1123,8 @@
         "img":"fourche_a_4_doigts.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["fourche_a_4_doigts.m4a"],
-        "prononce": ["Four-che à 4 doigts"]
+        "audio": ["fourche_a_4_doigts.mp3"],
+        "decoupe": ["Fourche à 4 doigts","Four-che à qua-tre doigts"]
     },
     {
         "id": 125,
@@ -1132,8 +1132,8 @@
         "img":"fourche_a_9_doigts.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["fourche_a_9_doigts.m4a"],
-        "prononce": ["Four-che à 9 doigts"]
+        "audio": ["fourche_a_9_doigts.mp3"],
+        "decoupe": ["Fourche à 9 doigts", "Fourche à neuf doigts"]
     },
     {
         "id": 126,
@@ -1141,8 +1141,8 @@
         "img":"fourche_beche.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["fourche_beche.m4a"],
-        "prononce": ["Four-che bê-che"]
+        "audio": ["fourche_beche.mp3"],
+        "decoupe": ["Four-che bê-che"]
     },
     {
         "id": 127,
@@ -1150,8 +1150,8 @@
         "img":"fourgons.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["fourgons.m4a"],
-        "prononce": ["Four-gons"]
+        "audio": ["fourgons.mp3"],
+        "decoupe": ["Four-gons"]
     },
     {
         "id": 128,
@@ -1159,8 +1159,8 @@
         "img":"fourreau.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["fourreau.m4a"],
-        "prononce": ["Fou-rreau"]
+        "audio": ["fourreau.mp3"],
+        "decoupe": ["Fou-rreau"]
     },
     {
         "id": 129,
@@ -1168,17 +1168,17 @@
         "img":"frein_de_chaine.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["frein_de_chaine.m4a"],
-        "prononce": ["Frein de chai-ne"]
+        "audio": ["frein_de_chaine.mp3"],
+        "decoupe": ["Frein de chai-ne"]
     },
     {
         "id": 130,
         "name":"Gâches",
         "img": "gaches.jpg",
-        "genre": "M",
+        "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["gaches.m4a"],
-        "prononce": ["Ga-ches"]
+        "audio": ["gaches.mp3"],
+        "decoupe": ["Ga-ches"]
     },
     {
         "id": 131,
@@ -1186,8 +1186,8 @@
         "img": "galerie.jpg",
         "genre": "F",
         "categorie": ["Bâtiment","Environnement/Espaces naturels"],
-        "audio": ["galerie.m4a"],
-        "prononce": ["Ga-le-rie"]
+        "audio": ["galerie.mp3"],
+        "decoupe": ["Ga-le-rie"]
     },
     {
         "id": 132,
@@ -1195,8 +1195,8 @@
         "img":"gants_de_maconnerie.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["gants_de_maconnerie.m4a"],
-        "prononce": ["Gants de ma-ço-nne-rie"]
+        "audio": ["gants_de_maconnerie.mp3"],
+        "decoupe": ["Gants de ma-ço-nne-rie"]
     },
     {
         "id": 133,
@@ -1204,8 +1204,8 @@
         "img":"gants_de_manutention.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["gants_de_manutention.m4a"],
-        "prononce": ["Gants de ma-nu-ten-tion"]
+        "audio": ["gants_de_manutention.mp3"],
+        "decoupe": ["Gants de ma-nu-ten-tion"]
     },
     {
         "id": 134,
@@ -1213,8 +1213,8 @@
         "img":"gants_de_tronconnage.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["gants_de_tronconnage.m4a"],
-        "prononce": ["Gants de tron-ço-nna-ge"]
+        "audio": ["gants_de_tronconnage.mp3"],
+        "decoupe": ["Gants de tron-ço-nnage"]
     },
     {
         "id": 135,
@@ -1222,8 +1222,8 @@
         "img":"genouilleres.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["genouilleres.m4a"],
-        "prononce": ["Ge-nou-illeres"]
+        "audio": ["genouilleres.mp3"],
+        "decoupe": ["Ge-nou-illeres"]
     },
     {
         "id": 136,
@@ -1231,8 +1231,8 @@
         "img":"gilets_fluorescents.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["gilets_fluorescents.m4a"],
-        "prononce": ["Gi-lets flu-o-re-scents"]
+        "audio": ["gilets_fluorescents.mp3"],
+        "decoupe": ["Gi-lets fluo-rescents"]
     },
     {
         "id": 137,
@@ -1240,8 +1240,8 @@
         "img":"goupille.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["goupille.m4a"],
-        "prononce": ["Gou-pi-lle"]
+        "audio": ["goupille.mp3"],
+        "decoupe": ["Gou-pille"]
     },
     {
         "id": 138,
@@ -1249,8 +1249,8 @@
         "img":"groupe_electrogene.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["groupe_electrogene.m4a"],
-        "prononce": ["Grou-pe é-lec-tro-gè-ne"]
+        "audio": ["groupe_electrogene.mp3"],
+        "decoupe": ["Grou-pe é-lec-tro-gène"]
     },
     {
         "id": 139,
@@ -1258,8 +1258,8 @@
         "img":"guide.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["guide.m4a"],
-        "prononce": ["Gui-de"]
+        "audio": ["guide.mp3"],
+        "decoupe": ["Gui-de"]
     },
     {
         "id": 140,
@@ -1267,8 +1267,8 @@
         "img":"guidon.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["guidon.m4a"],
-        "prononce": ["Gui-don"]
+        "audio": ["guidon.mp3"],
+        "decoupe": ["Gui-don"]
     },
     {
         "id": 141,
@@ -1276,17 +1276,17 @@
         "img":"harnais.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["harnais.m4a"],
-        "prononce": ["Har-nais"]
+        "audio": ["harnais.mp3"],
+        "decoupe": ["Har-nais"]
     },
     {
         "id": 142,
         "name":"Huile 2 temps",
         "img":"huile_2_temps.jpg",
-        "genre":"M",
+        "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["huile_2_temps.m4a"],
-        "prononce": ["Hui-le 2 temps"]
+        "audio": ["huile_2_temps.mp3"],
+        "decoupe": ["Hui-le 2 temps"]
     },
     {
         "id": 143,
@@ -1294,8 +1294,8 @@
         "img":"huile_de_chaine.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["huile_de_chaine.m4a"],
-        "prononce": ["Hui-le de chai-ne"]
+        "audio": ["huile_de_chaine.mp3"],
+        "decoupe": ["Hui-le de chai-ne"]
     },
     {
         "id": 144,
@@ -1303,8 +1303,8 @@
         "img":"huile_moteur_diesel.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["huile_moteur_diesel.m4a"],
-        "prononce": ["Hui-le mo-teur di-e-sel"]
+        "audio": ["huile_moteur_diesel.mp3"],
+        "decoupe": ["Hui-le mo-teur die-sel"]
     },
     {
         "id": 145,
@@ -1312,8 +1312,8 @@
         "img":"jeu_de_clefs_male.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["jeu_de_clefs_male.m4a"],
-        "prononce": ["Jeu de clefs mâ-le"]
+        "audio": ["jeu_de_clefs_male.mp3"],
+        "decoupe": ["Jeu de clefs mâ-le"]
     },
     {
         "id": 146,
@@ -1321,8 +1321,8 @@
         "img":"lames_de_cutter.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["lames_de_cutter.m4a"],
-        "prononce": ["La-mes de cu-tter"]
+        "audio": ["lames_de_cutter.mp3"],
+        "decoupe": ["Lames de cu-tter"]
     },
     {
         "id": 147,
@@ -1330,8 +1330,8 @@
         "img":"lames_de_scie.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["lames_de_scie.m4a"],
-        "prononce": ["La-mes de scie"]
+        "audio": ["lames_de_scie.mp3"],
+        "decoupe": ["La-mes de scie"]
     },
     {
         "id": 148,
@@ -1339,8 +1339,8 @@
         "img":"lanceur.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["lanceur.m4a"],
-        "prononce": ["Lan-ceur"]
+        "audio": ["lanceur.mp3"],
+        "decoupe": ["Lan-ceur"]
     },
     {
         "id": 149,
@@ -1348,8 +1348,8 @@
         "img":"lapidaire.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["lapidaire.m4a"],
-        "prononce": ["La-pi-dai-re"]
+        "audio": ["lapidaire.mp3"],
+        "decoupe": ["La-pi-daire"]
     },
     {
         "id": 150,
@@ -1357,8 +1357,8 @@
         "img":"levier_d_abattage_tournebille.jpg",
         "genre":"M",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["levier_d_abattage_tournebille.m4a"],
-        "prononce": ["Le-vi-er d'a-ba-tta-ge tour-ne-bi-lle"]
+        "audio": ["levier_d_abattage_tournebille.mp3"],
+        "decoupe": ["Le-vier d'a-ba-tta-ge tour-ne-bille"]
     },
     {
         "id": 151,
@@ -1366,8 +1366,8 @@
         "img":"lime_plate.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["lime_plate.m4a"],
-        "prononce": ["Li-me pla-te"]
+        "audio": ["lime_plate.mp3"],
+        "decoupe": ["Li-me pla-te"]
     },
     {
         "id": 152,
@@ -1375,8 +1375,8 @@
         "img":"lime_ronde.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["lime_ronde.m4a"],
-        "prononce": ["Li-me ron-de"]
+        "audio": ["lime_ronde.mp3"],
+        "decoupe": ["Li-me ron-de"]
     },
     {
         "id": 153,
@@ -1384,8 +1384,8 @@
         "img":"lisseuse_flamande.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["lisseuse_flamande.m4a"],
-        "prononce": ["Li-sseu-se fla-man-de"]
+        "audio": ["lisseuse_flamande.mp3"],
+        "decoupe": ["Li-sseu-se fla-man-de"]
     },
     {
         "id": 154,
@@ -1393,8 +1393,8 @@
         "img":"lunettes_de_protection.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["lunettes_de_protection.m4a"],
-        "prononce": ["Lu-ne-ttes de pro-tec-tion"]
+        "audio": ["lunettes_de_protection.mp3"],
+        "decoupe": ["Lu-ne-ttes de pro-tec-tion"]
     },
     {
         "id": 155,
@@ -1402,8 +1402,8 @@
         "img":"maillet.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["maillet.m4a"],
-        "prononce": ["Ma-i-llet"]
+        "audio": ["maillet.mp3"],
+        "decoupe": ["Mai-(i)llet"]
     },
     {
         "id": 156,
@@ -1411,8 +1411,8 @@
         "img":"malaxeur.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["malaxeur.m4a"],
-        "prononce": ["Ma-la-xeur"]
+        "audio": ["malaxeur.mp3"],
+        "decoupe": ["Ma-la-xeur"]
     },
     {
         "id": 157,
@@ -1420,17 +1420,17 @@
         "img":"manche.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["manche.m4a"],
-        "prononce": ["Man-che"]
+        "audio": ["manche.mp3"],
+        "decoupe": ["Man-che"]
     },
     {
         "id": 158,
         "name":"Manilles",
         "img":"manilles.jpg",
-        "genre":"M",
+        "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["manilles.m4a"],
-        "prononce": ["Ma-ni-lles"]
+        "audio": ["manilles.mp3"],
+        "decoupe": ["Ma-nilles"]
     },
     {
         "id": 159,
@@ -1438,8 +1438,8 @@
         "img":"marchepied.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["marchepied.m4a"],
-        "prononce": ["Mar-che-pi-ed"]
+        "audio": ["marchepied.mp3"],
+        "decoupe": ["Mar-che-pi-ed"]
     },
     {
         "id": 160,
@@ -1447,8 +1447,8 @@
         "img":"marteau_de_charpentier.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["marteau_de_charpentier.m4a"],
-        "prononce": ["Mar-teau de char-pen-ti-er"]
+        "audio": ["marteau_de_charpentier.mp3"],
+        "decoupe": ["Mar-teau de char-pen-tier"]
 
     },
     {
@@ -1457,8 +1457,8 @@
         "img":"marteau_de_macon.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["marteau_de_macon.m4a"],
-        "prononce": ["Mar-teau de ma-çon"]
+        "audio": ["marteau_de_macon.mp3"],
+        "decoupe": ["Mar-teau de ma-çon"]
     }, 
     {
         "id": 162,
@@ -1466,8 +1466,8 @@
         "img":"masque_anti_poussieres.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["masque_anti_poussieres.m4a"],
-        "prononce": ["Mas-que an-ti-pou-ssi-è-res"]
+        "audio": ["masque_anti_poussieres.mp3"],
+        "decoupe": ["Mas-que an-ti-pou-ssiè-res"]
     },
     {
         "id": 163,
@@ -1475,8 +1475,8 @@
         "img":"masse.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["masse.m4a"],
-        "prononce": ["Ma-sse"]
+        "audio": ["masse.mp3"],
+        "decoupe": ["Ma-sse"]
     },
     {
         "id": 164,
@@ -1484,8 +1484,8 @@
         "img":"massette_ronde.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["massette_ronde.m4a"],
-        "prononce": ["Ma-sse-tte ron-de"]
+        "audio": ["massette_ronde.mp3"],
+        "decoupe": ["Ma-sse-tte ron-de"]
     },
     {
         "id": 165,
@@ -1493,8 +1493,8 @@
         "img":"massette.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["massette.m4a"],
-        "prononce": ["Ma-sse-tte"]
+        "audio": ["massette.mp3"],
+        "decoupe": ["Ma-sse-tte"]
     },
     {
         "id": 166,
@@ -1502,8 +1502,8 @@
         "img":"meches.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["meches.m4a"],
-        "prononce": ["Mè-ches"]
+        "audio": ["meches.mp3"],
+        "decoupe": ["Mè-ches"]
     },
     {
         "id": 167,
@@ -1511,8 +1511,8 @@
         "img":"merlin.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["merlin.m4a"],
-        "prononce": ["Mer-lin"]
+        "audio": ["merlin.mp3"],
+        "decoupe": ["Mer-lin"]
     },
     {
         "id": 168,
@@ -1520,8 +1520,8 @@
         "img":"metre_pliant.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["metre_pliant.m4a"],
-        "prononce": ["Mè-tre pli-ant"]
+        "audio": ["metre_pliant.mp3"],
+        "decoupe": ["Mè-tre pliant"]
     },
     {
         "id": 169,
@@ -1529,8 +1529,8 @@
         "img":"metre_ruban.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["metre_ruban.m4a"],
-        "prononce": ["Mè-tre ru-ban"]
+        "audio": ["metre_ruban.mp3"],
+        "decoupe": ["Mè-tre ru-ban"]
     },
     {
         "id": 170,
@@ -1538,8 +1538,8 @@
         "img":"meuleuse_d_angle.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["meuleuse_d_angle.m4a"],
-        "prononce": ["Meu-leu-se d'an-gle"]
+        "audio": ["meuleuse_d_angle.mp3"],
+        "decoupe": ["Meu-leu-se d'an-gle"]
     },
     {
         "id": 171,
@@ -1547,8 +1547,8 @@
         "img":"meuleuse_fixe.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["meuleuse_fixe.m4a"],
-        "prononce": ["Meu-leu-se fi-xe"]
+        "audio": ["meuleuse_fixe.mp3"],
+        "decoupe": ["Meu-leu-se fi-xe"]
     },
     {
         "id": 172,
@@ -1556,8 +1556,8 @@
         "img":"nettoyeur_haute_pression.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["nettoyeur_haute_pression.m4a"],
-        "prononce": ["Ne-ttoy-eur hau-te pre-ssi-on"]
+        "audio": ["nettoyeur_haute_pression.mp3"],
+        "decoupe": ["Net-toy-(y)eur hau-te pres-sion"]
     },
     {
         "id": 173,
@@ -1565,8 +1565,8 @@
         "img":"niveau_a_bulle.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["niveau_a_bulle.m4a"],
-        "prononce": ["Ni-veau à bu-lle"]
+        "audio": ["niveau_a_bulle.mp3"],
+        "decoupe": ["Ni-veau à bu-lle"]
     },
     {
         "id": 174,
@@ -1574,8 +1574,8 @@
         "img":"nourrice.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["nourrice.m4a"],
-        "prononce": ["Nou-rri-ce"]
+        "audio": ["nourrice.mp3"],
+        "decoupe": ["Nou-rrice"]
     },
     {
         "id": 175,
@@ -1583,8 +1583,8 @@
         "img":"paille.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["paille.m4a"],
-        "prononce": ["Pai-lle"]
+        "audio": ["paille.mp3"],
+        "decoupe": ["Pa-ille"]
     },
     {
         "id": 176,
@@ -1592,8 +1592,8 @@
         "img":"palette.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["palette.m4a"],
-        "prononce": ["Pa-lette"]
+        "audio": ["palette.mp3"],
+        "decoupe": ["Pa-lette"]
     },
     {
         "id": 177,
@@ -1601,8 +1601,8 @@
         "img":"panneau_de_chantier.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["panneau_de_chantier.m4a"],
-        "prononce": ["Pa-nneau de chan-ti-er"]
+        "audio": ["panneau_de_chantier.mp3"],
+        "decoupe": ["Pa-nneau de chan-ti-er"]
     },
     {
         "id": 178,
@@ -1610,8 +1610,8 @@
         "img":"panneau_de_travaux.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["panneau_de_travaux.m4a"],
-        "prononce": ["Pa-nneau de tra-vaux"]
+        "audio": ["panneau_de_travaux.mp3"],
+        "decoupe": ["Pa-nneau de tra-vaux"]
     },
     {
         "id": 179,
@@ -1619,8 +1619,8 @@
         "img":"pantalon_de_tronconnage.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["pantalon_de_tronconnage.m4a"],
-        "prononce": ["Pan-ta-lon de tron-ço-nna-ge"]
+        "audio": ["pantalon_de_tronconnage.mp3"],
+        "decoupe": ["Pan-ta-lon de tron-ço-nna-ge"]
     },
     {
         "id": 180,
@@ -1628,8 +1628,8 @@
         "img":"papier_de_verre.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["papier_de_verre.m4a"],
-        "prononce": ["Pa-pi-er de ve-rre"]
+        "audio": ["papier_de_verre.mp3"],
+        "decoupe": ["Pa-pier de ve-rre"]
     },
     {
         "id": 181,
@@ -1637,8 +1637,8 @@
         "img":"parpaing.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["parpaing.m4a"],
-        "prononce": ["Par-paing"]
+        "audio": ["parpaing.mp3"],
+        "decoupe": ["Par-paing"]
     },
     {
         "id": 182,
@@ -1646,8 +1646,8 @@
         "img":"pelle_a_grain.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["pelle_a_grain.m4a"],
-        "prononce": ["Pe-lle à grain"]
+        "audio": ["pelle_a_grain.mp3"],
+        "decoupe": ["Pelle à grain"]
     },
     {
         "id": 183,
@@ -1655,8 +1655,8 @@
         "img":"pelle_a_poussiere.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["pelle_a_poussiere.m4a"],
-        "prononce": ["Pe-lle à pou-ssi-ère"]
+        "audio": ["pelle_a_poussiere.mp3"],
+        "decoupe": ["Pelle à pou-ssière"]
     },
     {
         "id": 184,
@@ -1664,8 +1664,8 @@
         "img":"pelle.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["pelle.m4a"],
-        "prononce": ["Pe-lle"]
+        "audio": ["pelle.mp3"],
+        "decoupe": ["Pelle"]
     },
     {
         "id": 185,
@@ -1673,8 +1673,8 @@
         "img" : "perceuse.jpg",
         "genre" : "F",
         "categorie" : ["Bâtiment"],
-        "audio": ["perceuse.m4a"],
-        "prononce" : ["Per-ceu-se"]
+        "audio": ["perceuse.mp3"],
+        "decoupe" : ["Per-ceu-se"]
     },
     {
         "id": 186,
@@ -1682,8 +1682,8 @@
         "img":"pictogramme.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["pictogramme.m4a"],
-        "prononce": ["Pic-to-gramme"]
+        "audio": ["pictogramme.mp3"],
+        "decoupe": ["Pic-to-gramme"]
     },
     {
         "id": 187,
@@ -1691,8 +1691,8 @@
         "img": "pied_de_biche.jpg",
         "genre": "M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["pied_de_biche.m4a"],
-        "prononce": ["Pied de bi-che"]
+        "audio": ["pied_de_biche.mp3"],
+        "decoupe": ["Pied de bi-che"]
     },
     {
         "id": 188,
@@ -1700,8 +1700,8 @@
         "img":"pince_coupante.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["pince_coupante.m4a"],
-        "prononce": ["Pin-ce cou-pan-te"]
+        "audio": ["pince_coupante.mp3"],
+        "decoupe": ["Pin-ce cou-pan-te"]
     },
     {
         "id": 189,
@@ -1709,8 +1709,8 @@
         "img":"pince_monseigneur.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["pince_monseigneur.m4a"],
-        "prononce": ["Pin-ce mon-sei-gneur"]
+        "audio": ["pince_monseigneur.mp3"],
+        "decoupe": ["Pin-ce mon-sei-gneur"]
     },
     {
         "id": 190,
@@ -1718,17 +1718,17 @@
         "img":"pince_multiprise.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["pince_multiprise.m4a"],
-        "prononce": ["Pin-ce mul-ti-pri-se"]
+        "audio": ["pince_multiprise.mp3"],
+        "decoupe": ["Pin-ce mul-ti-prise"]
     },
     {
         "id": 191,
         "name":"Pinceaux",
         "img":"pinceaux.jpg",
-        "genre":"F",
+        "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["pinceaux.m4a"],
-        "prononce": ["Pin-ceaux"]
+        "audio": ["pinceaux.mp3"],
+        "decoupe": ["Pin-ceaux"]
     },
     {
         "id": 192,
@@ -1736,8 +1736,8 @@
         "img":"pince_a_grume.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["pince_a_grume.m4a"],
-        "prononce": ["Pin-ce à gru-me"]
+        "audio": ["pince_a_grume.mp3"],
+        "decoupe": ["Pin-ce à gru-me"]
     },
     {
         "id": 193,
@@ -1745,8 +1745,8 @@
         "img":"pioche_de_cantonnier.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["pioche_de_cantonnier.m4a"],
-        "prononce": ["Pio-che de can-to-nni-er"]
+        "audio": ["pioche_de_cantonnier.mp3"],
+        "decoupe": ["Pio-che de can-to-nni-er"]
     },
     {
         "id": 194,
@@ -1754,8 +1754,8 @@
         "img":"pioche_forestiere.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["pioche_forestiere.m4a"],
-        "prononce": ["Pio-che fo-res-ti-ère"]
+        "audio": ["pioche_forestiere.mp3"],
+        "decoupe": ["Pio-che fo-res-ti-ère"]
     },
     {
         "id": 195,
@@ -1763,8 +1763,8 @@
         "img":"pioche.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["pioche.m4a"],
-        "prononce": ["Pio-che"]
+        "audio": ["pioche.mp3"],
+        "decoupe": ["Pio-che"]
     },
     {
         "id": 196,
@@ -1772,8 +1772,8 @@
         "img":"piolet_de_macon.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["piolet_de_macon.m4a"],
-        "prononce": ["Pi-o-let de ma-çon"]
+        "audio": ["piolet_de_macon.mp3"],
+        "decoupe": ["Pio-let de ma-çon"]
     },
     {
         "id": 197,
@@ -1781,17 +1781,17 @@
         "img":"pistolet.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["pistolet.m4a"],
-        "prononce": ["Pis-to-let"]
+        "audio": ["pistolet.mp3"],
+        "decoupe": ["Pis-to-let"]
     },
     {
         "id": 198,
         "name":"Planche",
         "img":"planche.jpg",
-        "genre":"M",
+        "genre":"F",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["planche.m4a"],
-        "prononce": ["Plan-che"]
+        "audio": ["planche.mp3"],
+        "decoupe": ["Plan-che"]
     },
     {
         "id": 199,
@@ -1799,8 +1799,8 @@
         "img":"planes.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["planes.m4a"],
-        "prononce": ["Pla-nes"]
+        "audio": ["planes.mp3"],
+        "decoupe": ["Pla-nes"]
     },
     {
         "id": 200,
@@ -1808,8 +1808,8 @@
         "img":"platoir_a_2_mains.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["platoir_a_2_mains.m4a"],
-        "prononce": ["Pla-toir à 2 mains"]
+        "audio": ["platoir_a_2_mains.mp3"],
+        "decoupe": ["Pla-toir à 2 mains"]
     },
     {
         "id": 201,
@@ -1817,8 +1817,8 @@
         "img":"platoirs.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["platoirs.m4a"],
-        "prononce": ["Pla-toirs"]
+        "audio": ["platoirs.mp3"],
+        "decoupe": ["Pla-toirs"]
     },
     {
         "id": 202,
@@ -1826,8 +1826,8 @@
         "img":"pochoir_a_joints.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["pochoir_a_joints.m4a"],
-        "prononce": ["Po-choir à joints"]
+        "audio": ["pochoir_a_joints.mp3"],
+        "decoupe": ["Po-choir à joints"]
     },
     {
         "id": 203,
@@ -1835,8 +1835,8 @@
         "img":"poignee_double_commande.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["poignee_double_commande.m4a"],
-        "prononce": ["Poi-gnée dou-ble co-mman-de"]
+        "audio": ["poignee_double_commande.mp3"],
+        "decoupe": ["Poi-gnée dou-ble co-mman-de"]
     },
     {
         "id": 204,
@@ -1844,8 +1844,8 @@
         "img":"pointerolles.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["pointerolles.m4a"],
-        "prononce": ["Poin-te-ro-lles"]
+        "audio": ["pointerolles.mp3"],
+        "decoupe": ["Poin-te-ro-lles"]
     },
     {
         "id": 205,
@@ -1853,8 +1853,8 @@
         "img":"pointes.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["pointes.m4a"],
-        "prononce": ["Poin-tes"]
+        "audio": ["pointes.mp3"],
+        "decoupe": ["Poin-tes"]
     },
     {
         "id": 206,
@@ -1862,8 +1862,8 @@
         "img":"pomme_d_arrosoir.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["pomme_d_arrosoir.m4a"],
-        "prononce": ["Po-mme d'a-rro-soir"]
+        "audio": ["pomme_d_arrosoir.mp3"],
+        "decoupe": ["Po-mme d'a-rro-soir"]
     },
     {
         "id": 207,
@@ -1871,8 +1871,8 @@
         "img":"pompe_a_graisse.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["pompe_a_graisse.m4a"],
-        "prononce": ["Pom-pe à grai-sse"]
+        "audio": ["pompe_a_graisse.mp3"],
+        "decoupe": ["Pom-pe à grai-sse"]
     },
     {
         "id": 208,
@@ -1880,8 +1880,8 @@
         "img":"pompe_a_huile.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["pompe_a_huile.m4a"],
-        "prononce": ["Pom-pe à hui-le"]
+        "audio": ["pompe_a_huile.mp3"],
+        "decoupe": ["Pom-pe à hui-le"]
     },
     {
         "id": 209,
@@ -1889,8 +1889,8 @@
         "img":"pompe_d_amorcage.jpg",
         "genre":"F",
         "categorie": ["Bâtiment","Environnement/Espaces naturels"],
-        "audio": ["pompe_d_amorcage.m4a"],
-        "prononce": ["Pom-pe d'a-mor-ça-ge"]
+        "audio": ["pompe_d_amorcage.mp3"],
+        "decoupe": ["Pom-pe d'a-mor-ça-ge"]
     },
     {
         "id": 210,
@@ -1898,8 +1898,8 @@
         "img":"potence.jpg",
         "genre":"M",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["potence.m4a"],
-        "prononce": ["Po-ten-ce"]
+        "audio": ["potence.mp3"],
+        "decoupe": ["Po-ten-ce"]
     },
     {
         "id": 211,
@@ -1907,8 +1907,8 @@
         "img":"poubelle.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["poubelle.m4a"],
-        "prononce": ["Pou-be-lle"]
+        "audio": ["poubelle.mp3"],
+        "decoupe": ["Pou-be-lle"]
     },
     {
         "id": 212,
@@ -1916,17 +1916,17 @@
         "img":"poulie.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["poulie.m4a"],
-        "prononce": ["Pou-lie"]
+        "audio": ["poulie.mp3"],
+        "decoupe": ["Pou-lie"]
     },
     {
         "id": 213,
         "name":"Prise électrique de remorque",
         "img":"prise_electrique_de_remorque.jpg",
-        "genre":"M",
+        "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["prise_electrique_de_remorque.m4a"],
-        "prononce": ["Pri-se é-lec-tri-que de re-mor-que"]
+        "audio": ["prise_electrique_de_remorque.mp3"],
+        "decoupe": ["Pri-se é-lec-tri-que de re-mor-que"]
     },
     {
         "id": 214,
@@ -1934,8 +1934,8 @@
         "img":"pulverisateur.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["pulverisateur.m4a"],
-        "prononce": ["Pul-vé-ri-sa-teur"]
+        "audio": ["pulverisateur.mp3"],
+        "decoupe": ["Pul-vé-ri-sa-teur"]
     },
     {
         "id": 215,
@@ -1943,17 +1943,17 @@
         "img":"quad.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["quad.m4a"],
-        "prononce": ["Qu-ad"]
+        "audio": ["quad.mp3"],
+        "decoupe": ["Quad"]
     },
     {
         "id": 216,
         "name":"Rallonge électrique",
         "img":"rallonge_electrique.jpg",
-        "genre":"M",
+        "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["rallonge_electrique.m4a"],
-        "prononce": ["Ra-llon-ge é-lec-tri-que"]
+        "audio": ["rallonge_electrique.mp3"],
+        "decoupe": ["Ra-llon-ge é-lec-tri-que"]
     },
     {
         "id": 217,
@@ -1961,17 +1961,17 @@
         "img":"rames.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["rames.m4a"],
-        "prononce": ["Ra-mes"]
+        "audio": ["rames.mp3"],
+        "decoupe": ["Ra-mes"]
     },
     {
         "id": 218,
         "name":"Rampe électrique",
         "img":"rampe_electrique.jpg",
-        "genre":"M",
+        "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["rampe_electrique.m4a"],
-        "prononce": ["Ram-pe é-lec-tri-que"]
+        "audio": ["rampe_electrique.mp3"],
+        "decoupe": ["Ram-pe é-lec-tri-que"]
     },
     {
         "id": 219,
@@ -1979,8 +1979,8 @@
         "img":"rampes_d_embarquement.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["rampes_d_embarquement.m4a"],
-        "prononce": ["Ram-pes d'em-bar-que-ment"]
+        "audio": ["rampes_d_embarquement.mp3"],
+        "decoupe": ["Ram-pes d'em-bar-que-ment"]
     },
     {
         "id": 220,
@@ -1988,8 +1988,8 @@
         "img":"rateau.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["rateau.m4a"],
-        "prononce": ["Râ-teau"]
+        "audio": ["rateau.mp3"],
+        "decoupe": ["Râ-teau"]
     },
     {
         "id": 221,
@@ -1997,8 +1997,8 @@
         "img":"remorque.jpg",
         "genre":"F",
         "categorie": ["Bâtiment","Environnement/Espaces naturels"],
-        "audio": ["remorque.m4a"],
-        "prononce": ["Re-mor-que"]
+        "audio": ["remorque.mp3"],
+        "decoupe": ["Re-mor-que"]
     },
     {
         "id": 222,
@@ -2006,8 +2006,8 @@
         "img":"robinet.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels","Bâtiment"],
-        "audio": ["robinet.m4a"],
-        "prononce": ["Ro-bi-net"]
+        "audio": ["robinet.mp3"],
+        "decoupe": ["Ro-bi-net"]
     },
     {
         "id": 223,
@@ -2015,8 +2015,8 @@
         "img":"rondelle_crantee.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["rondelle_crantee.m4a"],
-        "prononce": ["Ron-de-lle cran-tée"]
+        "audio": ["rondelle_crantee.mp3"],
+        "decoupe": ["Ron-de-lle cran-tée"]
     },
     {
         "id": 224,
@@ -2024,8 +2024,8 @@
         "img":"rondelles_frein.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["rondelles_frein.m4a"],
-        "prononce": ["Ron-de-lles frein"]
+        "audio": ["rondelles_frein.mp3"],
+        "decoupe": ["Ron-de-lles frein"]
     },
     {
         "id": 225,
@@ -2033,26 +2033,26 @@
         "img":"rondelles.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["rondelles.m4a"],
-        "prononce": ["Ron-de-lles"]
+        "audio": ["rondelles.mp3"],
+        "decoupe": ["Ron-de-lles"]
     },
     {
         "id": 226,
         "name":"Roue de secours",
         "img":"roue_de_secours.jpg",
-        "genre":"M",
+        "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["roue_de_secours.m4a"],
-        "prononce": ["Roue de se-cours"]
+        "audio": ["roue_de_secours.mp3"],
+        "decoupe": ["Roue de se-cours"]
     },
     {
         "id": 227,
         "name":"Roue joker",
         "img":"roue_joker.jpg",
-        "genre":"M",
+        "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["roue_joker.m4a"],
-        "prononce": ["Roue jo-ker"]
+        "audio": ["roue_joker.mp3"],
+        "decoupe": ["Roue jo-ker"]
     },
     {
         "id": 228,
@@ -2060,8 +2060,8 @@
         "img":"rubalise.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["rubalise.m4a"],
-        "prononce": ["Ru-ba-li-se"]
+        "audio": ["rubalise.mp3"],
+        "decoupe": ["Ru-ba-li-se"]
     },
     {
         "id": 229,
@@ -2069,8 +2069,8 @@
         "img":"sac_poubelle.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["sac_poubelle.m4a"],
-        "prononce": ["Sac pou-be-lle"]
+        "audio": ["sac_poubelle.mp3"],
+        "decoupe": ["Sac pou-be-lle"]
     },
     {
         "id": 230,
@@ -2078,8 +2078,8 @@
         "img":"sangle_a_cliquet.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["sangle_a_cliquet.m4a"],
-        "prononce": ["San-gle à cli-quet"]
+        "audio": ["sangle_a_cliquet.mp3"],
+        "decoupe": ["San-gle à cli-quet"]
     },
     {
         "id": 231,
@@ -2087,8 +2087,8 @@
         "img":"scie_a_buche.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["scie_a_buche.m4a"],
-        "prononce": ["Scie à bû-che"]
+        "audio": ["scie_a_buche.mp3"],
+        "decoupe": ["Scie à bû-che"]
     },
     {
         "id": 232,
@@ -2096,8 +2096,8 @@
         "img":"scie_a_elaguer.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["scie_a_elaguer.m4a"],
-        "prononce": ["Scie à é-la-guer"]
+        "audio": ["scie_a_elaguer.mp3"],
+        "decoupe": ["Scie à é-la-guer"]
     },
     {
         "id": 233,
@@ -2105,8 +2105,8 @@
         "img":"scie_a_metaux.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["scie_a_metaux.m4a"],
-        "prononce": ["Scie à mé-taux"]
+        "audio": ["scie_a_metaux.mp3"],
+        "decoupe": ["Scie à mé-taux"]
     },
     {
         "id": 234,
@@ -2114,8 +2114,8 @@
         "img":"scie_circulaire.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["scie_circulaire.m4a"],
-        "prononce": ["Scie cir-cu-lai-re"]
+        "audio": ["scie_circulaire.mp3"],
+        "decoupe": ["Scie cir-cu-lai-re"]
     },
     {
         "id": 235,
@@ -2123,8 +2123,8 @@
         "img":"scie_perche_manuelle.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["scie_perche_manuelle.m4a"],
-        "prononce": ["Scie per-che ma-nu-elle"]
+        "audio": ["scie_perche_manuelle.mp3"],
+        "decoupe": ["Scie per-che ma-nu-e-lle"]
     },
     {
         "id": 236,
@@ -2132,8 +2132,8 @@
         "img":"scie_egoine.jpg",
         "genre":"F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["scie_egoine.m4a"],
-        "prononce": ["Scie ego-ï-ne"]
+        "audio": ["scie_egoine.mp3"],
+        "decoupe": ["Scie ego-ï-ne"]
     },
     {
         "id": 237,
@@ -2141,8 +2141,8 @@
         "img": "scotch_orange.jpg",
         "genre": "M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["scotch_orange.m4a"],
-        "prononce": ["Scot-ch or-an-ge"]
+        "audio": ["scotch_orange.mp3"],
+        "decoupe": ["Scotch o-ran-ge"]
     },
     {
         "id": 238,
@@ -2150,8 +2150,8 @@
         "img":"scotchs.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["scotchs.m4a"],
-        "prononce": ["Sco-tchs"]
+        "audio": ["scotchs.mp3"],
+        "decoupe": ["Scotchs"]
     },
     {
         "id": 239,
@@ -2159,8 +2159,8 @@
         "img":"sceaux.jpg",
         "genre":"M",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["sceaux.m4a"],
-        "prononce": ["Sceaux"]
+        "audio": ["sceaux.mp3"],
+        "decoupe": ["Sceaux"]
     },
     {
         "id": 240,
@@ -2168,8 +2168,8 @@
         "img":"secateur.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["secateur.m4a"],
-        "prononce": ["Sé-ca-teur"]
+        "audio": ["secateur.mp3"],
+        "decoupe": ["Sé-ca-teur"]
     },
     {
         "id": 241,
@@ -2177,8 +2177,8 @@
         "img":"serre_joint_de_macon.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["serre_joint_de_macon.m4a"],
-        "prononce": ["Serre-joint de ma-çon"]
+        "audio": ["serre_joint_de_macon.mp3"],
+        "decoupe": ["Se-rre-joint de ma-çon"]
     },
     {
         "id": 242,
@@ -2186,8 +2186,8 @@
         "img":"serre_joint_de_menuisier.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["serre_joint_de_menuisier.m4a"],
-        "prononce": ["Serre-joint de me-nui-si-er"]
+        "audio": ["serre_joint_de_menuisier.mp3"],
+        "decoupe": ["Se-rre-joint de me-nui-sier"]
     },
     {
         "id": 243,
@@ -2195,8 +2195,8 @@
         "img":"souffleur_thermique.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["souffleur_thermique.m4a"], 
-        "prononce": ["Sou-ffleur ther-mi-que"]
+        "audio": ["souffleur_thermique.mp3"], 
+        "decoupe": ["Sou-ffleur ther-mi-que"]
     },
     {
         "id": 244,
@@ -2204,8 +2204,8 @@
         "img":"spot_electrique.jpg",
         "genre":"M",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["spot_electrique.m4a"],
-        "prononce": ["Spot é-lec-tri-que"]
+        "audio": ["spot_electrique.mp3"],
+        "decoupe": ["Spot é-lec-tri-que"]
     },
     {
         "id": 245,
@@ -2213,8 +2213,8 @@
         "img":"tableau.jpg",
         "genre":"M",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["tableau.m4a"],
-        "prononce": ["Ta-bleau"]
+        "audio": ["tableau.mp3"],
+        "decoupe": ["Ta-bleau"]
     },
     {
         "id": 246,
@@ -2222,8 +2222,8 @@
         "img":"taloche_a_pointes.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["taloche_a_pointes.m4a"],
-        "prononce": ["Ta-lo-che à poin-tes"]
+        "audio": ["taloche_a_pointes.mp3"],
+        "decoupe": ["Ta-lo-che à poin-tes"]
     },
     {
         "id": 247,
@@ -2231,8 +2231,8 @@
         "img":"taloche_eponge.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["taloche_eponge.m4a"],
-        "prononce": ["Ta-lo-che é-pon-ge"]
+        "audio": ["taloche_eponge.mp3"],
+        "decoupe": ["Ta-lo-che é-pon-ge"]
     },
     {
         "id": 248,
@@ -2240,8 +2240,8 @@
         "img":"taloche_rectangulaire.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["taloche_rectangulaire.m4a"],
-        "prononce": ["Ta-lo-che rec-tan-gu-lai-re"]
+        "audio": ["taloche_rectangulaire.mp3"],
+        "decoupe": ["Ta-lo-che rec-tan-gu-lai-re"]
     },
     {
         "id": 249,
@@ -2249,8 +2249,8 @@
         "img":"taloche_triangulaires.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["taloche_triangulaires.m4a"],
-        "prononce": ["Ta-lo-che tri-an-gu-lai-res"]
+        "audio": ["taloche_triangulaires.mp3"],
+        "decoupe": ["Ta-lo-che tri-an-gu-lai-res"]
     },
     {
         "id": 250,
@@ -2258,8 +2258,8 @@
         "img":"tamis.jpg",
         "genre":"M",
         "categorie": ["Bâtiment"],
-        "audio": ["tamis.m4a"],
-        "prononce": ["Ta-mis"]
+        "audio": ["tamis.mp3"],
+        "decoupe": ["Ta-mis"]
     },
     {
         "id": 251,
@@ -2267,8 +2267,8 @@
         "img":"tenaille.jpg",
         "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["tenaille.m4a"],
-        "prononce": ["Te-na-ille"]
+        "audio": ["tenaille.mp3"],
+        "decoupe": ["Te-na-ille"]
     },
     {
         "id": 252,
@@ -2276,8 +2276,8 @@
         "img":"tendeur_de_cable.jpg",
         "genre":"M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["tendeur_de_cable.m4a"],
-        "prononce": ["Ten-deur de câb-le"]
+        "audio": ["tendeur_de_cable.mp3"],
+        "decoupe": ["Ten-deur de câb-le"]
     },
     {
         "id": 253,
@@ -2285,8 +2285,8 @@
         "img":"tendeur_de_cloture.jpg",
         "genre": "M",
         "categorie": ["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["tendeur_de_cloture.m4a"],
-        "prononce": ["Ten-deur de clô-tu-re"]
+        "audio": ["tendeur_de_cloture.mp3"],
+        "decoupe": ["Ten-deur de clô-tu-re"]
     },
     {
         "id": 254,
@@ -2294,17 +2294,17 @@
         "img":"tendeur_sandow.jpg",
         "genre":"M",
         "categorie" :["Environnement/Espaces naturels", "Bâtiment"],
-        "audio": ["tendeur_sandow.m4a"],
-        "prononce": ["Ten-deur San-dow"]
+        "audio": ["tendeur_sandow.mp3"],
+        "decoupe": ["Ten-deur San-dow"]
     },
     {
         "id": 255,
         "name":"Terre à bâtir",
         "img":"terre_a_batir.jpg",
-        "genre":"M",
+        "genre":"F",
         "categorie": ["Bâtiment"],
-        "audio": ["terre_a_batir.m4a"],
-        "prononce": ["Ter-re à bâ-tir"]
+        "audio": ["terre_a_batir.mp3"],
+        "decoupe": ["Ter-re à bâ-tir"]
     },
     {
         "id": 256,
@@ -2312,8 +2312,8 @@
         "img":"tete_de_lapin.jpg",
         "genre":"F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["tete_de_lapin.m4a"],
-        "prononce": ["Tête de la-pin"]
+        "audio": ["tete_de_lapin.mp3"],
+        "decoupe": ["Tête de la-pin"]
     },
     {
         "id": 257,
@@ -2321,8 +2321,8 @@
         "img": "tete_de_rotofil.jpg",
         "genre" : "F",
         "categorie" : ["Environnement/Espaces naturels"],
-        "audio": ["tete_de_rotofil.m4a"],
-        "prononce": ["Tê-te de ro-to-fil"]
+        "audio": ["tete_de_rotofil.mp3"],
+        "decoupe": ["Tê-te de ro-to-fil"]
     },
     {
         "id": 258,
@@ -2330,8 +2330,8 @@
         "img": "tire_fond.jpg",
         "genre": "M",
         "categorie": ["Bâtiment"],
-        "audio": ["tire_fond.m4a"],
-        "prononce": ["Ti-re-fond"]
+        "audio": ["tire_fond.mp3"],
+        "decoupe": ["Ti-re-fond"]
     },
     {
         "id": 259,
@@ -2339,8 +2339,8 @@
         "img": "tournevis_cruciformes.jpg",
         "genre": "M",
         "categorie": ["Bâtiment"],
-        "audio": ["tournevis_cruciformes.m4a"],
-        "prononce": ["Tour-ne-vis cru-ci-for-mes"]
+        "audio": ["tournevis_cruciformes.mp3"],
+        "decoupe": ["Tour-ne-vis cru-ci-for-mes"]
     },
     {
         "id": 260,
@@ -2348,8 +2348,8 @@
         "img": "tournevis_plats.jpg",
         "genre": "M",
         "categorie": ["Bâtiment"],
-        "audio": ["tournevis_plats.m4a"],
-        "prononce": ["Tour-ne-vis plats"]
+        "audio": ["tournevis_plats.mp3"],
+        "decoupe": ["Tour-ne-vis plats"]
     },
     {
         "id": 261,
@@ -2357,8 +2357,8 @@
         "img": "tournevis_torx.jpg",
         "genre": "M",
         "categorie": ["Bâtiment"],
-        "audio": ["tournevis_torx.m4a"],
-        "prononce": ["Tour-ne-vis torx"]
+        "audio": ["tournevis_torx.mp3"],
+        "decoupe": ["Tour-ne-vis torx"]
     },
     {
         "id": 262,
@@ -2366,8 +2366,8 @@
         "img": "tranche.jpg",
         "genre": "F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["tranche.m4a"],
-        "prononce": ["Tran-che"]
+        "audio": ["tranche.mp3"],
+        "decoupe": ["Tran-che"]
     },
     {
         "id": 263,
@@ -2375,8 +2375,8 @@
         "img": "treillis_metalliques.jpg",
         "genre": "M",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["treillis_metalliques.m4a"],
-        "prononce": ["Trei-llis mé-ta-lli-ques"]
+        "audio": ["treillis_metalliques.mp3"],
+        "decoupe": ["Trei-llis mé-ta-lli-ques"]
     },
     {
         "id": 264,
@@ -2384,8 +2384,8 @@
         "img": "tronconneuse.jpg",
         "genre": "F",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["tronconneuse.m4a"],
-        "prononce": ["Tron-ço-nneu-se"]
+        "audio": ["tronconneuse.mp3"],
+        "decoupe": ["Tron-ço-nneuse"]
     },
     {
         "id": 265,
@@ -2393,8 +2393,8 @@
         "img": "trousse_a_phamacie.jpg",
         "genre": "F",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["trousse_a_phamacie.m4a"],
-        "prononce": ["Trou-sse à phar-ma-cie"]
+        "audio": ["trousse_a_phamacie.mp3"],
+        "decoupe": ["Trousse à phar-ma-cie"]
     },
     {
         "id": 266,
@@ -2402,8 +2402,8 @@
         "img": "truelle_d_angle_interieur.jpg",
         "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["truelle_d_angle_interieur.m4a"],
-        "prononce": ["tru-elle d'an-gle in-té-ri-eur"]
+        "audio": ["truelle_d_angle_interieur.mp3"],
+        "decoupe": ["truelle d'angle in-té-rieur"]
     },
     {
         "id": 267,
@@ -2411,8 +2411,8 @@
         "img": "truelle_de_reims.jpg",
         "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["truelle_de_reims.m4a"],
-        "prononce": ["tru-elle de Reim-s"]
+        "audio": ["truelle_de_reims.mp3"],
+        "decoupe": ["tru-elle de Reims"]
     },
     {
         "id": 268,
@@ -2420,8 +2420,8 @@
         "img": "truelle_italienne.jpg",
         "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["truelle_italienne.m4a"],
-        "prononce": ["tru-elle i-ta-li-enne"]
+        "audio": ["truelle_italienne.mp3"],
+        "decoupe": ["truelle i-ta-lienne"]
     },
     {
         "id": 269,
@@ -2429,8 +2429,8 @@
         "img": "truelle_langue_de_chat.jpg",
         "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["truelle_langue_de_chat.m4a"],
-        "prononce": ["tru-elle lan-gue de chat"]
+        "audio": ["truelle_langue_de_chat.mp3"],
+        "decoupe": ["truelle langue de chat"]
     },
     {
         "id": 270,
@@ -2438,8 +2438,8 @@
         "img": "truelle_rectangulaire.jpg",
         "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["truelle_rectangulaire.m4a"],
-        "prononce": ["tru-elle rec-tan-gu-lai-re"]
+        "audio": ["truelle_rectangulaire.mp3"],
+        "decoupe": ["truelle rec-tan-gu-laire"]
     },
     {
         "id": 271,
@@ -2447,8 +2447,8 @@
         "img": "truelle_triangulaire.jpg",
         "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["truelle_triangulaire.m4a"],
-        "prononce": ["tru-elle tri-an-gu-lai-re"]
+        "audio": ["truelle_triangulaire.mp3"],
+        "decoupe": ["truelle tri-an-gu-laire"]
     },
     {
         "id": 272,
@@ -2456,8 +2456,8 @@
         "img": "truelle_d_angle.jpg",
         "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["truelle_d_angle.m4a"],
-        "prononce": ["tru-elle d'an-gle"]
+        "audio": ["truelle_d_angle.mp3"],
+        "decoupe": ["truelle d'an-gle"]
     },
     {
         "id": 273,
@@ -2465,8 +2465,8 @@
         "img": "tuyau.jpg",
         "genre": "M",
         "categorie": ["Bâtiment","Environnement/Espaces naturels"],
-        "audio": ["tuyau.m4a"],
-        "prononce": ["Tuy-au"]
+        "audio": ["tuyau.mp3"],
+        "decoupe": ["Tuy-(y)au"]
     },
     {
         "id": 274,
@@ -2474,8 +2474,8 @@
         "img": "verre_gradue.jpg",
         "genre": "M",
         "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
-        "audio": ["verre_gradue.m4a"],
-        "prononce": ["Ve-rre gra-du-é"]
+        "audio": ["verre_gradue.mp3"],
+        "decoupe": ["Verre gra-dué"]
     },
     {
         "id": 275,
@@ -2483,8 +2483,8 @@
         "img": "vis.jpg",
         "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["vis.m4a"],
-        "prononce": ["Vi-s"]
+        "audio": ["vis.mp3"],
+        "decoupe": ["Vi-s"]
     },
     {
         "id": 276,
@@ -2492,8 +2492,8 @@
         "img": "visseuse.jpg",
         "genre": "F",
         "categorie": ["Bâtiment"],
-        "audio": ["visseuse.m4a"],
-        "prononce": ["Vi-sseu-se"]
+        "audio": ["visseuse.mp3"],
+        "decoupe": ["Vis-seuse"]
     },
     {
         "id": 277,
@@ -2501,7 +2501,106 @@
         "img": "waders.jpg",
         "genre": "M",
         "categorie": ["Environnement/Espaces naturels"],
-        "audio": ["waders.m4a"],
-        "prononce": ["Wa-ders"]
+        "audio": ["waders.mp3"],
+        "decoupe": ["Wa-ders"]
+    },
+     {
+        "id": 278,
+        "name": "Casque",
+        "img": "casque.jpg",
+        "genre": "M",
+        "categorie": ["Environnement/Espaces naturels"],
+        "audio": ["casque.mp3"],
+        "decoupe": ["cas-que"]
+     },
+     {
+        "id": 279,
+        "name": "Chaussures de sécurité",
+        "img": "chaussures_de_securite.jpg",
+        "genre": "F",
+        "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
+        "audio": ["chaussures_de_securite.mp3"],
+        "decoupe": ["Chau-ssures de sé-cu-ri-té"]
+    },
+     {
+        "id": 280,
+        "name": "Gants de débardage",
+        "img": "gants_de_debardage.jpg",
+        "genre": "M",
+        "categorie": ["Environnement/Espaces naturels"],
+        "audio": ["gants_de_debardage.mp3"],
+        "decoupe": ["Gants de dé-bar-dage"]
+    },
+    {
+        "id": 281,
+        "name": "Gants de travail",
+        "img": "gants_de_travail.jpg",
+        "genre": "M",
+        "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
+        "audio": ["gants_de_travail.mp3"],
+        "decoupe": ["Gants de tra-vail"]
+    },
+    {
+        "id": 282,
+        "name": "Gants hiver",
+        "img": "gants_hiver.jpg",
+        "genre": "M",
+        "categorie": ["Bâtiment","Environnement/Espaces naturels"],
+        "audio": ["gants_hiver.mp3"],
+        "decoupe": ["Gants hi-ver"]
+    },
+    {
+        "id": 283,
+        "name": "Gilet sans manches",
+        "img": "gilet_sans_manches.jpg",
+        "genre": "M",
+        "categorie": ["Bâtiment", "Environnement/Espaces naturels"],
+        "audio": ["gilet_sans_manches.mp3"],
+        "decoupe": ["Gi-let sans manches"]
+    },
+    {
+        "id": 284,
+        "name": "Gyrophare",
+        "img": "gyrophare.jpg",
+        "genre": "M",
+        "categorie": ["Bâtiment","Environnement/Espaces naturels"],
+        "audio": ["gyrophare.mp3"],
+        "decoupe": ["Gy-ro-phare"]
+    },
+    {
+        "id": 285,
+        "name": "Pince de Ramassage",
+        "img": "pince_de_ramassage.jpg",
+        "genre": "F",
+        "categorie": ["Environnement/Espaces naturels"],
+        "audio": ["pince_de_ramassage.mp3"],
+        "decoupe": ["Pince de Ra-ma-ssage"]
+    },
+    {
+        "id": 286,
+        "name": "Sous-gants",
+        "img": "sous_gants.jpg",
+        "genre": "M",
+        "categorie": ["Bâtiment","Environnement/Espaces naturels"],
+        "audio": ["sous_gants.mp3"],
+        "decoupe": ["Sous-gants"]
+    },
+    {
+        "id": 287,
+        "name": "Surlunettes de protection",
+        "img": "surlunettes_de_protection.jpg",
+        "genre": "F",
+        "categorie": ["Bâtiment","Environnement/Espaces naturels"],
+        "audio": ["surlunettes_de_protection.mp3"],
+        "decoupe": ["Sur-lu-nettes de pro-tec-tion"]
+    },
+    {
+        "id": 288,
+        "name": "Visière",
+        "img": "visiere.jpg",
+        "genre": "F",
+        "categorie": ["Environnement/Espaces naturels"],
+        "audio": ["visiere.mp3"],
+        "decoupe": ["Visière"]
     }
 ] 
